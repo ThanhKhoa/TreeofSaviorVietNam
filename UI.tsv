@@ -1,0 +1,2193 @@
+UI_20150317_000001	{@st41b}Học Thuộc Tính{nl}Từ Bậc Thầy Của Mỗi Class.{/}				
+UI_20150317_000002	{@st43}Danh Sách Thuộc Tính {/}				
+UI_20150317_000003	{@st59}Đóng{/}				
+UI_20150317_000004	{@st43}Học Thuộc tính{/}				
+UI_20150317_000005	{@st59}Đóng{/}				
+UI_20150317_000006	{@st41b}Silver{/}				
+UI_20150317_000007	Thành Tích Của Tôi					
+UI_20150317_000008	Xếp Hạng Server					
+UI_20150317_000009	{@st59}Xuất Hiện Một Sự Kiện Bất Ngờ.{/}				
+UI_20150317_000010	{@st59}Có Tin Nhắn Trợ Giúp Mới{/}				
+UI_20150317_000011	{@st41}Bạn có Chắc Chắn Muốn Chế Tạo Loại Mũi Tên Này?{/}			
+UI_20150317_000012	{@st41b}Một Lần{/}					
+UI_20150317_000013	{@st41b}Tất Cả{/}}				
+UI_20150317_000014	{@st41b}Tạm Dừng{/}				
+UI_20150317_000015	{@st43}Nhật Ký Phiêu Lưu{/}				
+UI_20150317_000016	{@st43}Nhà Đấu Giá{/}				
+UI_20150317_000017	{@st59}Đóng{/}				
+UI_20150317_000018	{@st41b}Vật Phẩm Bán : ×%s, Vật Phẩm Không Bán : ×%s{/}					
+UI_20150317_000019	{@st43}{s22}Vật Phẩm Đấu Giá{/}					
+UI_20150317_000020	{@st59}Đóng{/}			
+UI_20150317_000021	Nghỉ Ngơi					
+UI_20150317_000022	{@st41b}Thời Gian Còn Lại					
+UI_20150317_000023	3 Giờ 16 Phút					
+UI_20150317_000024	{@st41b}Giá Khởi Điểm					
+UI_20150317_000025	{@st41b}Số Lần Trả Giá					
+UI_20150317_000026	{@st41b}Giá Hiện Tại					
+UI_20150317_000027	{@st41b}Giá Đấu Giá				
+UI_20150317_000028	{@st41b}Giá Đấu Giá Tối Thiểu Từ {@st57}%s{@st41b}silver{/}				
+UI_20150317_000029	{@st41b}Đấu Giá{/}				
+UI_20150317_000030	{@st43b}Mua Ngay!{nl}{img icon_item_silver 20 20}{@st57}%s{/}				
+UI_20150317_000031	{@st44}Thiết Lập Quyền{/}				
+UI_20150317_000032	{@st45}Tên: %s{/}				
+UI_20150317_000033	{@st45}Kho Của Party {/}			
+UI_20150317_000034	{@st49}None				
+UI_20150317_000035	{@st49}Cửa Hàng					
+UI_20150317_000036	{@st49}Nhận				
+UI_20150317_000037	{@st45}Khảo Sát{/}				
+UI_20150317_000038	{@st49}Tạo mới			
+UI_20150317_000039	{@st49}Xóa				
+UI_20150317_000040	{@st44}Lưu{/}				
+UI_20150317_000041	{@st44}Hủy{/}				
+UI_20150317_000042	{@st43}{s22}Tiệm Làm Đầu{/}					
+UI_20150317_000043	{@st59}Kiểu Tóc Trước{/}					
+UI_20150317_000044	{@st59}Kiểu Tóc Tiếp{/}				
+UI_20150317_000045	{@st41b} Đổi {s18} (Cần 100 icoins) {/}					
+UI_20150317_000046	{@st59}Đổi Thành Kiểu Tóc Đang Chọn.{/}					
+UI_20150317_000047	{@st41}Hủy					
+UI_20150317_000048	{@st43}Chợ Đen{/}			
+UI_20150317_000049	Tên Sách				
+UI_20150317_000050	{@St59}Ngừng Đọc{/}					
+UI_20150317_000051	{@st59}Trang Trước{/}					
+UI_20150317_000052	{@st59}Trang Sau{/}				
+UI_20150317_000053	{@st47}%s Đã Xuất Hiện!					
+UI_20150317_000054	{@st43}Điểm{/}					
+UI_20150317_000055	Sát Thương Nhận Vào	
+UI_20150317_000056	Thưởng Kỹ Thuật					
+UI_20150317_000057	Thưởng Tránh Né					
+UI_20150317_000058	Thời Gian Hoàn Thành					
+UI_20150317_000059	Tổng Điểm 					
+UI_20150317_000060	{@st42}Thời Gian Đã Qua					
+UI_20150317_000061	10 Phút				
+UI_20150317_000062	10 Giây					
+UI_20150317_000063	{@st44}Hoàn Thành				
+UI_20150317_000064	{@st59}Đóng{/}				
+UI_20150317_000065	{@st43}Máy Buff Tự Động					
+UI_20150317_000066	Tên Máy Tự Động					
+UI_20150317_000067	{@st43}Đăng Ký				
+UI_20150317_000068	{@st43}Hủy					
+UI_20150317_000069	Máy Buff Tự Động				
+UI_20150317_000070	{@st59}Đóng					
+UI_20150317_000071	{@st59}Máy Buff Tự Động{nl} - Bạn Có Thể Trả Silver Để Nhận Buff Từ Người Chơi Khác.					
+UI_20150317_000072	Danh Sách Vận Chuyển					
+UI_20150317_000073	{ol}{s22}Dỡ Hàng{/}				
+UI_20150317_000074	Casting				
+UI_20150317_000075	{@st43}Thiết Lập Game{/}					
+UI_20150317_000076	{@st64}Dùng Phím Mũi Tên Để Chọn 1 ô!					
+UI_20150317_000077	{@st43}Thông Tin Nâng Cao {/}					
+UI_20150317_000078	{@st43}Chọn Class				
+UI_20150317_000079	Psychokinesist				
+UI_20150317_000080	{@st42}%s Circle {/}			
+UI_20150317_000081	Bao Nhiêu circles					
+UI_20150317_000082	Mô Tả Ngắn Về Class.					
+UI_20150317_000083	{@st41b}Tấn Công {@sti7}%s{/}					
+UI_20150317_000084	{@st41b}Hỗ Trợ {@sti7}%s{/}				
+UI_20150317_000085	{@st41b}Độ Khó{@sti7}%s{/}					
+UI_20150317_000086	{@st59}Đóng{/}					
+UI_20150317_000087	Báo Động Phát Triển					
+UI_20150317_000088	{@st43} Phát Triển					
+UI_20150317_000089	{@sti7}{s14} Nhân vật {/}					
+UI_20150317_000090	{@sti8}{s14} Class {/}					
+UI_20150317_000091	{@st44}Chat{/}			
+UI_20150317_000092	Tới. WWWWWWWW Và 1 Người Khác 					
+UI_20150317_000093	Thường: /s chat {nl} Loa: /y chat {nl} Đội: /p chat{nl} Riêng: /w Tên Người Chơi	
+UI_20150317_000094	{@st41}Chat Tất Cả{/}				
+UI_20150317_000095	{@59}Đóng{/}					
+UI_20150317_000096	{@59}Mời{/}					
+UI_20150317_000097	{@st59}Tất Cả{/}			
+UI_20150317_000098	{@st59}Thường (/s chat){/}			
+UI_20150317_000099	{@st59}Loa (/y chat){/}				
+UI_20150317_000100	{@st59}Đội (/p chat){/}				
+UI_20150317_000101	{@st59}Riêng (/w team name chat){/}					
+UI_20150317_000102	{@st59}Điều Chỉnh Cửa Sổ Chat{/}				
+UI_20150317_000103	{@st43}{s22}Chat Cử Chỉ{/}				
+UI_20150317_000104	{@st43}Cử Chỉ{/}					
+UI_20150317_000105	{@st59b}Cử Chỉ {nl} {@st59s} - Cách Dùng: {nl} 1. Kéo Biểu Tượng Cử Chỉ Vào Rãnh Cử Chỉ Ở Phía Dưới. {nl} 2. Viết Cụm Từ Của Bạn Và Lưu. {nl} 3. Dùng Phím Tắt Để Đồng Thời Dùng Cụm Từ Và Cử Chỉ. {/}	
+UI_20150317_000106	{@st59}Đóng{/}					
+UI_20150317_000107	{@st41b}Lưu{/}					
+UI_20150317_000108	{@st59}Lưu{/}					
+UI_20150317_000109	{@st41b}Hủy{/}				
+UI_20150317_000110	{@st59}Hủy{/}				
+UI_20150317_000111	{@st42}Thiết Lập Chat				
+UI_20150317_000112	{@st42}Độ Trong Suốt					
+UI_20150317_000113	Hiện Bong Bóng Chat					
+UI_20150317_000114	Hiện Loa Ở Phía Trên					
+UI_20150317_000115	{@st43}Danh Sách Cheat{/}			
+UI_20150317_000116	{@st42b}Vật Phẩm{/}	 			
+UI_20150317_000117	{@st42b}Quái{/}			
+UI_20150317_000118	{@st42b}Chuyển Bản Đồ{/}			
+UI_20150317_000119	{@st42b}Trật Tự Combat{/}			
+UI_20150317_000121	{s16}{b}.Tạo Vật Phẩm Bằng Cách Bấm Nút Tạo Hoặc Nháy Đúp	
+UI_20150317_000120	{@st41b}Đóng{/}				
+UI_20150317_000122	{s16}{b}ea					
+UI_20150317_000123	{s16}{b}Lv.				
+UI_20150317_000124	{@st41b}Tra Cứu{/}				
+UI_20150317_000125	{s16}{b}Triệu Hồi Quái Bằng Cách Bấm Nút Tạo Hoặc Nháy Đúp.	
+UI_20150317_000126	{s16}{b}ea				
+UI_20150317_000127	{s16}{b}Chọn Vùng Mong Muốn.				
+UI_20150317_000128	{s18}{b}Xem Bản Đồ Nhỏ{/}				
+UI_20150317_000129	{@st41b}Danh Sách Công Cụ{/}				
+UI_20150317_000130	{@st59b}Bộ Sưu Tập {nl}{@st59s}- Mua Collection Deck Và Kiếm Vật Phẩm Trong Đó. {nl} - Phím Nóng Bộ Sưu Tập Được Kích Hoạt Khi Bạn Dùng Collection Deck . {nl} {/}	
+UI_20150317_000131	{@st59}Đóng{/}					
+UI_20150317_000132	{@st43}Bộ Sưu Tập{/}					
+UI_20150317_000133	{@st43}Phun Màu{/}					
+UI_20150317_000134	{@st49}Phun Màu{/}					
+UI_20150317_000135	{@st49}Màu{/}				
+UI_20150317_000136	{@st49}Còn Lại{/}					
+UI_20150317_000137	{@st49}Chải{/}					
+UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Vẽ{/}{/}				
+UI_20150317_000139	{@st49}{a Lưu_EDIT_SPRAY}Lưu{/}{/}				
+UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Đưa Vào{/}{/}					
+UI_20150317_000141	{@st49}Đóng{/}				
+UI_20150317_000142	{@st43}Nhận thú cưng			
+UI_20150317_000143	{@st59}Nhập Tên thú cưng Mới {/}			
+UI_20150317_000144	{@st41b}Tên{/}				
+UI_20150317_000145	{@st41b}Giá %s{/}				
+UI_20150317_000146	{@st59}Đóng{/}				
+UI_20150317_000147	{@st41b}Nhận Nuôi				
+UI_20150317_000148	{@st59}Xác Nhận{/}					
+UI_20150317_000149	{@st43}Tiệm thú cưng				
+UI_20150317_000150	{@st59}Đóng{/}					
+UI_20150317_000151	{@st43}Thông Tin Nhân Vật Khác{/}{@st42}				
+UI_20150317_000152	{@st59}Đóng{/}				
+UI_20150317_000153	{@st41b}Thông Tin				
+UI_20150317_000154	{@st41b}Ghi Lại			
+UI_20150317_000155	Tên Gia Đình				
+UI_20150317_000156	Tên Nhân Vật					
+UI_20150317_000157	Circle {#ffff00}%s{/} %s Lv. {#ffff00}%s{/}					
+UI_20150317_000158	Chiến Binh					
+UI_20150317_000159	Mục Lục Hành Trình {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)				
+UI_20150317_000160	Mục Lục Hành Trình {#ffff00}%s{/} ({#ffff00}Không Xếp Hạng{/})					
+UI_20150317_000161	Tổng Thành Tích : {#ffff00}%s{/}				
+UI_20150317_000162	Thiết lập					
+UI_20150317_000163	Xóa Tiêu Đề Tab Để Xóa Tab.					
+UI_20150317_000164	{@st49}Tất Cả{/}					
+UI_20150317_000165	{@st49}Hệ Thống{/}					
+UI_20150317_000166	{@st49}Nói Chuyện{/}					
+UI_20150317_000167	{@st49}Giao Tranh{/}					
+UI_20150317_000168	{@st49}Vật Phẩm{/}				
+UI_20150317_000169	{@st43}Credits{/}				
+UI_20150317_000170	{@st43}Thiết lập Khóa Mục Tiêu {/}					
+UI_20150317_000171	Tên NPC				
+UI_20150317_000172	So Sánh				
+UI_20150317_000173	Minh Họa					
+UI_20150317_000174	Chọn Đoạn Hội thoại				
+UI_20150317_000175	Trợ Giúp				
+UI_20150317_000176	{@st41}Chế tạo vật phảm{/}					
+UI_20150317_000177	{@st45tw2}Đàn chế tạo vật phẩm...					
+UI_20150317_000178	%r Giây	%r 초				
+UI_20150317_000179	{@st41}Hủy{/}					
+UI_20150317_000180	{@st45tw2}Số lượng{/}					
+UI_20150317_000181	{@st45tw2}Bạn có muốn chế tạo vật phẩm này?				
+UI_20150317_000182	{@st41}Xác nhận{/}					
+UI_20150317_000183	Thông tin nhiệm vụ			
+UI_20150317_000184	{@st59}Hủy Giao Dịch{/}				
+UI_20150317_000185	{@st43}Giao Dịch Cá Nhân{/}					
+UI_20150317_000186	Danh sách Giao Dịch Của Tôi			
+UI_20150317_000187	Silver : %s				
+UI_20150317_000188	Nhập vào					
+UI_20150317_000189	{@st41}Đồng ý					
+UI_20150317_000190	{@st41}Xác nhận					
+UI_20150317_000191	Người Chơi Khác (%s) Danh Sách Giao Dịch					
+UI_20150317_000192	Tên Người Chơi Khác					
+UI_20150317_000193	{s18}{ol} {gr gradation1}Sự Kiện Bản Đồ{/}					
+UI_20150317_000194	{s20}{ol}Tiêu diệt bộ lạc Vubbe! Bạn có muốn tham gia?				
+UI_20150317_000195	{s20}{ol}%s Bạn có muốn tham gia?				
+UI_20150317_000196	{s20}{ol}Số người tham gia : (1/5)					
+UI_20150317_000197	{s20}{ol}Số người tham gia : (%s/%s)					
+UI_20150317_000198	{s20}{ol}Trò chơi bắt đầu sau 1 giây.					
+UI_20150317_000199	{s20}{ol}Trò Chơi bắt đầu sau %s Giây.					
+UI_20150317_000200	Đừng hiện lại hôm nay.				
+UI_20150317_000201	Không hiển thị sự kiện Bản Đồ.					
+UI_20150317_000202	Tham gia Trò chơi					
+UI_20150317_000203	Bắt đầu Trò chơi cùng người chơi khác.					
+UI_20150317_000204	Từ chối lời mời.					
+UI_20150317_000205	Thiết lập sẵn bình xịt					
+UI_20150317_000206	{@st49}Chọn{/}				
+UI_20150317_000207	{@st49}Hủy{/}					
+UI_20150317_000208	{@st49}Xóa{/}				
+UI_20150317_000209	Nhập tên file để Lưu.				
+UI_20150317_000210	{@st43}Bạn Bè				
+UI_20150317_000211	{@st59}Đóng{/}				
+UI_20150317_000212	{@st59b}Bạn Bè{nl}{@st59s} - Trở thành bạn với người chơi khác trong Trò chơi. {nl} - Bạn có thể xem trạng thái của bạn bè trong tab Bạn Bè. {nl} - Trong tab Quản lý,  bạn có thể mời, từ chối hoặc chặn bạn bè của bạn . {/}	
+UI_20150317_000213	{@st41b}Hiển thị bạn online{/}			
+UI_20150317_000214	{@st41b}Danh sách					
+UI_20150317_000215	{@st41b}Quản lí			
+UI_20150317_000216	{@st41b}Gửi lời mời kết bạn				
+UI_20150317_000217	{@st41b}Chặn				
+UI_20150317_000218	{@st59}Tìm kiếm{/}					
+UI_20150317_000219	{@st44}Bang Hội{/}				
+UI_20150317_000220	Bang Hội					
+UI_20150317_000221	Danh Sách				
+UI_20150317_000222	Tin Tức				
+UI_20150317_000223	Nhiệm Vụ Bang Hội				
+UI_20150317_000224	Thành viên online				
+UI_20150317_000225	{@st44}Tạo Bang Hội{/}				
+UI_20150317_000226	{@st42}Tạo{/}					
+UI_20150317_000227	{@st42}Đóng{/}					
+UI_20150317_000228	{@st42}Tất Cả{/}					
+UI_20150317_000229	{@st42}Xếp Hạng hôm nay{/}				
+UI_20150317_000230	{@st42}Xếp Hạng Tuần{/}				
+UI_20150317_000231	{@st56}Hạng {/}				
+UI_20150317_000232	{@st56}Điểm{/}				
+UI_20150317_000233	{@st56}Class{/}				
+UI_20150317_000234	{@st56}Tên {/}				
+UI_20150317_000235	Trang Trước					
+UI_20150317_000236	Trang Sau				
+UI_20150317_000237	{@st42}Tìm ID{/}				
+UI_20150317_000238	Nhập ID để tìm					
+UI_20150317_000239	Đóng đại sảnh của người nổi tiếng				
+UI_20150317_000240	Nhập ID để tìm					
+UI_20150317_000241	{@st59} Stamina {/}		
+UI_20150317_000242	{@st43}Danh sách Hỗ trợ{/}				
+UI_20150317_000243	{@st59}Đóng{/}			
+UI_20150317_000244	{@st59b}Danh sách Hỗ trợ{nl}{@st59s} - Nếu bạn cần trợ giúp gì đó, bạn lúc nào củng có thể đọc những chủ đề giúp đỡ. {nl} - Chọn một chủ đề đẻ biết thêm thông tin. {/}	
+UI_20150317_000245	{@st43}{s22}Hỗ Trợ{/}				
+UI_20150317_000246	{@st47_b}{b}Các chủ đề hỗ trợ{/}				
+UI_20150317_000247	{@st42b}Các nội dung cơ bản{/}					
+UI_20150317_000248	{@st59}Xem thông tin chi tiết{/}			
+UI_20150317_000249	Hãy nhập số lượng				
+UI_20150317_000250	{@st59}Nhập nội dung{/}					
+UI_20150317_000251	{@st41b}Xác nhận				
+UI_20150317_000252	{@st59}Xác nhận {/}				
+UI_20150317_000253	{@st41b}Đóng				
+UI_20150317_000254	{@st59}Hủy {/}				
+UI_20150317_000255	{@st43}Dịch chuyển{/}					
+UI_20150317_000256	{@st59}Đóng{/}				
+UI_20150317_000257	{@st59b}Dịch Chuyển{nl}{@st59s} - Cho phép bạn nhanh chóng di chuyển đến các khu vực bạn đã đi qua. {nl} - Tính năng này được kích hoạt khi hai hay nhiều điểm dịch chuyển đã được kích hoạt. {nl} {/}	
+UI_20150317_000258	{@st41}Vị trí Hiện tại : %s{/}					
+UI_20150317_000259	{@st43}{s22}Dịch chuyển{/}					
+UI_20150317_000260	{@st41b}Bạn muốn dịch chuyển đến vùng này?{/}				
+UI_20150317_000261	Điều cần biết về Siauliai					
+UI_20150317_000262	Coin tiêu thụ : 0			
+UI_20150317_000263	Giới Thiệu				
+UI_20150317_000264	{@st43}Túi Đồ{/}			
+UI_20150317_000265	{@st59}Đóng{/}					
+UI_20150317_000266	{@st59b}Trang Bị {nl} {@st59s}- Tóc/Trang phục: Mặc Để thay đổi diện mạo nhân vật. {nl} - Vũ Khí: Có thể trang bị Vũ khí một tay hoặc hai tay {nl} (Vũ khí phụ / Khiên có thể được trang bị cùng với một vũ khí một tay) {nl} - Giáp: Áo, Quần, Găng tay, Giày. {nl} - Trang Sức: Có thể đeo 1 Dây Chuyền và 2 Vòng Tay. {nl} {/}	
+UI_20150317_000267	{@st59}Trang trí tóc 1{/}					
+UI_20150317_000268	{@st59}trang trí tóc 2{/}				
+UI_20150317_000269	{@st59}Dây Chuyền{/}				
+UI_20150317_000270	{@st59}Trang Phục{/}				
+UI_20150317_000271	{@st59}Áo{/}					
+UI_20150317_000272	{@st59}Găng Tay{/}					
+UI_20150317_000273	{@st59}Quần{/}					
+UI_20150317_000274	{@st59}Giày{/}					
+UI_20150317_000275	{@st59}Tay Trái{/}					
+UI_20150317_000276	{@st59}Tay Phải{/}				
+UI_20150317_000277	{@st59}Vòng Tay 1{/}					
+UI_20150317_000278	{@st59}Vòng Tay 2{/}				
+UI_20150317_000279	{@st59}Băng Đeo{/}					
+UI_20150317_000280	{@st59}Tìm Kiếm{/}					
+UI_20150317_000281	Cân Nặng				
+UI_20150317_000282	{@st43}Buff Trang bị{/}			
+UI_20150317_000283	{@st59}Đóng{/}				
+UI_20150317_000284	{@st42}Buff có thể dùng				
+UI_20150317_000285	{@st42}Trang Phục{/}				
+UI_20150317_000286	{@st42}Chạy				
+UI_20150317_000287	{@st42}Vật phẩm đã chọn{/}					
+UI_20150317_000288	{@st59}Nhẫn 1{/}					
+UI_20150317_000289	{@st43}Chế tạo Vật Phẩm{/}				
+UI_20150317_000290	{@st42b}Hiển thị vật phẩm có thể chế tạo{/}					
+UI_20150317_000291	{@st59}Đóng{/}			
+UI_20150317_000292	{@st43}{s22}Tách Vật Phẩm				
+UI_20150317_000293	{@st59}Nhập số lượng{/}				
+UI_20150317_000294	Thanh HP Của Quái					
+UI_20150317_000295	{@st44}Bộ Vật Phẩm nhận được{/}				
+UI_20150317_000296	Anh Hùng Bàn Phím					
+UI_20150317_000297	Giết					
+UI_20150317_000298	99 phút 99 giây				
+UI_20150317_000299	38000 Điểm			
+UI_20150317_000300	Dopping Tăng tốc				
+UI_20150317_000301	{@st41}Xác Nhận{/}					
+UI_20150317_000302	{@st59b} Nhật Ký Phiêu Lưu {nl}{@st59s}- Tiến trình chơi của bạn sẽ được lưu lại trong nhật ký hành trình. {nl} - Bạn có thể tăng tiến trình bằng cách: nhận được vật phẩm, giết quái, chế tạo, và khám phá thế giới.{nl}    Mục lục của hành trình : Tất cả mục lục của bạn. {nl}    Tăng Trưởng : 5 điểm cho mỗi cấp của nhân vật và cấp class {nl}    Vật Phẩm : Thiết Bị : Cấp Trang Bị X 10 Điểm, Sách : 10 points, Khác : 1 point {nl}    Quái Vật : 10 Điểm cho mỗi quái vật (50 Điểm cho Boss) {nl}    Bản Đồ : 1 Điểm cho mỗi 10% Bản Đồ được khám phá {nl}   Nhiệm Vụ : 1 điểm cho mỗi 1 nhiệm vụ {nl}    Thành Tích : Điểm tùy theo từng thành tích {nl}    Chế Tạo : 10 Điểm {nl}    Sưu Tầm : 5 điểm cho 1 bộ và 45 điểm khi hoàn thành {nl} - Bạn có thể nhận được quá đặc biết từ NPC trong thành phố tùy theo số điểm hành trình. {/}		
+UI_20150317_000303	{@sti7}{s22}{ds}Thành Tích{/}					
+UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Điểm{/}					
+UI_20150317_000305	{@st42b} Trung Bình / %s Điểm {/}				
+UI_20150317_000306	Hạng 1 / %s Điểm					
+UI_20150317_000307	Xếp Hạng 			
+UI_20150317_000308	%s Điểm				
+UI_20150317_000309	Chuyên Nghiệp					
+UI_20150317_000310	Team					
+UI_20150317_000311	{@st59}Đóng{/}					
+UI_20150317_000312	{@st43}Xếp Hạng Phiêu Lưu{/}				
+UI_20150317_000313	{@st43}{s22}Hạng   					
+UI_20150317_000314	{@st43}{s22}Tên				
+UI_20150317_000315	{@st43}{s22}Điểm				
+UI_20150317_000316	{@st41}Chi tiết{/}				
+UI_20150317_000317	{@st43}Bắt đầu Chế tạo{/}				
+UI_20150317_000318	{@st59}Bắt đầu Chế tạo Vật Phẩm.{/}					
+UI_20150317_000319	{@st44}Bàn Phím{/}					
+UI_20150317_000320	{@st42}Giới hạn Thời gian					
+UI_20150317_000321	{@st56}Giết{/}				
+UI_20150317_000322	{@st56}Overkill{/}					
+UI_20150317_000323	{@st56}Bắn{/}					
+UI_20150317_000324	{@st56}Chết{/}				
+UI_20150317_000325	Sức Mạnh Phép Thuật				
+UI_20150317_000326	Phòng Thủ				
+UI_20150317_000327	Kháng Phép					
+UI_20150317_000328	Tỉ Lệ Crit					
+UI_20150317_000329	{@st43}Khe Gem{/}				
+UI_20150317_000330	{@st59}Đóng{/}				
+UI_20150317_000331	Hãy bỏ Vật Phẩm vào				
+UI_20150317_000332	Tiềm Lực				
+UI_20150317_000333	Giá Thêm Khe Gem : {#ff9933}%s{/}{nl}Giá Tháo Gem : {#ff9933}%s{/}	
+UI_20150317_000334	{@st41b}Thêm Khe Gem				
+UI_20150317_000335	{@st41b}Tháo Gem					
+UI_20150317_000336	{@st41}Chế Tạo{/}					
+UI_20150317_000337	{@st41}%s %s ea				
+UI_20150317_000338	Bản Đồ Khu Vực					
+UI_20150317_000339	Khu Vực đã khám phá : 95.5%				
+UI_20150317_000340	{@st45tw}Khu Vực đã khám phá%s% {/}				
+UI_20150317_000341	{@st59}Đóng{/}					
+UI_20150317_000342	{@st41}Bản Đồ{/}					
+UI_20150317_000343	Shift(Xóa), Ctrl(Hiện ở giữa)				
+UI_20150317_000344	{ol}Tiêu Đề					
+UI_20150317_000345	{@st41}Thêm{/}				
+UI_20150317_000346	{@st41}Xóa{/}					
+UI_20150317_000347	{@st41}Lưu{/}					
+UI_20150317_000348	{@st41}Tự Động{/}					
+UI_20150317_000349	{@st41}Reset{/}					
+UI_20150317_000350	{@st59}Thiết lập số lượng.{/}					
+UI_20150317_000351	{ol}Nhóm				
+UI_20150317_000352	{ol}Tin nhắn				
+UI_20150317_000353	{ol}Âm thanh				
+UI_20150317_000354	{@st41}Tạo Bản Đồ Nhỏ{/}					
+UI_20150317_000355	{@st55}Bản Đồ Khu Vực				
+UI_20150317_000356	{@st43}{s22}Chợ{/}					
+UI_20150317_000357	{@st43}{s24}Chợ{/}					
+UI_20150317_000358	{@st42b}Bộ Lọc{/}					
+UI_20150317_000359	{@st42b}Loại{/}			
+UI_20150317_000360	{@st42b}Lv. Yêu cầu{/}				
+UI_20150317_000361	{@st42b}Lv Cường hóa{/}				
+UI_20150317_000362	{@st42b}Tên					
+UI_20150317_000363	{@st41b}Nhận %s					
+UI_20150317_000364	{@st41b}Bán				
+UI_20150317_000365	{@st41b}Tìm Kiếm				
+UI_20150317_000366	{@st59}Đóng{/}					
+UI_20150317_000367	{@st42b}Sắp xếp					
+UI_20150317_000368	{@st41b}Mua					
+UI_20150317_000369	{@st43}{s22}Nhận					
+UI_20150317_000370	{@st41b}Nhận Tất Cả					
+UI_20150317_000371	{@st41b}Nhận					
+UI_20150317_000372	{@st43}{s22}Bán					
+UI_20150317_000373	{@st42b}Số Lượng				
+UI_20150317_000374	{@st42b}Giá				
+UI_20150317_000375	{@st42b}Giấu Tên Người Bán{/}				
+UI_20150317_000376	{@st41b}Đăng Kí				
+UI_20150317_000377	Siege Coin				
+UI_20150317_000378	Ai đó vừa giết người				
+UI_20150317_000379	{@st43}Minigames{/}				
+UI_20150317_000380	{@st49}Máy bắn đá{/}				
+UI_20150317_000381	{@st44}Điều khiển phương hướng{/}					
+UI_20150317_000382	{@st44}Bắn{/}				
+UI_20150317_000383	Minigame				
+UI_20150317_000384	{s18}{ol}{gr gradation1}Minigame Trốn tìm{/}					
+UI_20150317_000385	{s16}Bạn có muốn tham gia mini-game?				
+UI_20150317_000386	{s16}Số người tham gia : (0/5)				
+UI_20150317_000387	{s16}Số người tham gia : (%s /%s)				
+UI_20150317_000388	{s16}Trò chơi bắt đầu sau 1 giây.					
+UI_20150317_000389	{s16}Trò chơi bắt đầu sau %s giây.				
+UI_20150317_000390	{@st59}Phóng to{/}				
+UI_20150317_000391	{@st59}Thu nhỏ{/}				
+UI_20150317_000392	{@st59}Bản Đồ (M){/}					
+UI_20150317_000393	{@st42b} Bản Đồ Khu Vực 			
+UI_20150317_000394	{@st44}Kết hợp Vật Phẩm{/}				
+UI_20150317_000395	{s16}{#FFcc66}{ol}Hãy chọn Vật Phẩm bạn muốn chế tạo{/}{/}	
+UI_20150317_000396	{s16}{#FFcc66}{ol}Kéo thành phần vào khe		
+UI_20150317_000397	{@st42}Chế tạo{/}				
+UI_20150317_000398	{@st42} Hủy {/}				
+UI_20150317_000399	Thông tin của %s				
+UI_20150317_000400	Kepa hoặc ...				
+UI_20150317_000401	{@st41}{Details}				
+UI_20150317_000402	{s20}{#050505}Mô tả Quái Vật  Mô tả Quái Vật  Mô tả Quái Vật  Mô tả Quái Vật	
+UI_20150317_000403	{@st41} Giết {/}					
+UI_20150317_000404	{@st41} Overkill {/}				
+UI_20150317_000405	{@st41} Giết bình thường {/}			
+UI_20150317_000406	{@st41} Khu vực {/}		
+UI_20150317_000407	{@st41} Vật Phẩm {/}			
+UI_20150317_000408	{@st41} Thành Tích {/}		
+UI_20150317_000409	Đối Tượng				
+UI_20150317_000410	{@st43}Necronomicon{/}					
+UI_20150317_000411	{@st59}Đóng{/}				
+UI_20150317_000412	{@st59}Giờ tôi rất lười suy nghĩ.{/}	
+UI_20150317_000413	Sinh Vật Triệu hồi : {#ffcc33}%s{/}				
+UI_20150317_000414	Undead Harpy				
+UI_20150317_000415	Skill : %s			
+UI_20150317_000416	Skill 1, Skill 2				
+UI_20150317_000417	Số Mảnh vỡ yêu cầu : %s				
+UI_20150317_000418	Beast 60 / Insect 20/ Mutant 10				
+UI_20150317_000419	Số Mảnh vỡ			
+UI_20150317_000420	Phần 1				
+UI_20150317_000421	Phần 2			
+UI_20150317_000422	Phần 3					
+UI_20150317_000423	Chúc Mừng! Bạn vừa lên lv.				
+UI_20150317_000424	Báo động Vật Phẩm				
+UI_20150317_000425	{@st64}Chi tiết{/}					
+UI_20150317_000426	Cách chơi					
+UI_20150317_000427	{@st42b}          Di chuyển một lần với mỗi phím nhấn{/}			
+UI_20150317_000428	{@st42b}       Thực hiện cú đánh thường{/}				
+UI_20150317_000429	{@st42b}                Nhảy lên{/}				
+UI_20150317_000430	{@st42b}  Sử dụng hai phím để di chuyển theo đường chéo.{/}	
+UI_20150317_000431	Công cụ sương mù				
+UI_20150317_000432	Công cụ giết quái				
+UI_20150317_000433	Công cụ làm bản đồ nhỏ				
+UI_20150317_000434	Công cụ đối thoại					
+UI_20150317_000435	{@st43}Thiết lập của GM{/}				
+UI_20150317_000436	{@st59}Đóng{/}				
+UI_20150317_000437	{@st59b}Thông tin tổ đội{nl}{@st59s} - Ấn ""Tạo Tổ Đội"" ở dưới để tạo một tổ đội. {nl} - Nháy chuột phải vào người chơi khác để gửi mời vào tổ đội. {nl} -  Những sự thay đổi của tổ đội có thể làm qua tab cài đặt. {nl} - Thiết lập các điều kiện cụ thể để tìm kiếm các thành viên từ danh sách công cộng.{/}	
+UI_20150317_000438	{@st43}Thông tin tổ đội{/}				
+UI_20150317_000439	{@st41b}Số thành viên{/}			
+UI_20150317_000440	{@st41b}Sự kiện tổ đội {/}				
+UI_20150317_000441	{@st41b}Thiết lập{/}				
+UI_20150317_000442	{@st41}Số thành viên{/}				
+UI_20150317_000443	{@st41}Điều kiện để gia nhập tổ đội					
+UI_20150317_000444	{@st41b}Công Khai					
+UI_20150317_000445	{@st41b}Cá nhân
+UI_20150317_000446	Yêu cầu Level                                ~
+UI_20150317_000447	{@st41}Chia Vật Phẩm
+UI_20150317_000448	{@st41b}Của ai người ấy nhặt
+UI_20150317_000449	{@st41b}Tranh cướp
+UI_20150317_000450	{@st41b}Ngẫu nhiên
+UI_20150317_000451	{@st41}Chia EXP
+UI_20150317_000452	{@st41b}Theo cá nhân
+UI_20150317_000453	{@st41b}Chia đều
+UI_20150317_000454	{@st41b}Theo Level
+UI_20150317_000455	{@st41}Chia sẻ nhiệm vụ
+UI_20150317_000456	{@st41b}Cho phép
+UI_20150317_000457	{@st41b}Vô hiệu hóa
+UI_20150317_000458	{@st41b}Tạo Tổ đội
+UI_20150317_000459	{@st43}Danh sách Tổ đội công khai {/}
+UI_20150317_000460	{@st59b}Danh sách Tổ đội công khai{nl}{@st59s} - Tìm Tổ đội bạn muốn vào bằng cách xem các tổ đội mở {nl} - Dùng các tùy chọn tìm kiếm để tìm tổ đội thích hợp{/}
+UI_20150317_000461	{@st59}Đóng Danh sách tổ đội{/}
+UI_20150317_000462	Sử dụng tìm kiếm
+UI_20150317_000463	Chia sẻ nhiệm vụ
+UI_20150317_000464	Chia EXP
+UI_20150317_000465	Chia vật phẩm
+UI_20150317_000466	{@st43}Mời
+UI_20150317_000467	{@st41b}Mời{/}
+UI_20150317_000468	{s18}{ol}{gr gradation1}Quy tắc về việc tắt máy{/}
+UI_20150317_000469	{ol}Điều kiện cho việc áp dụng các quy tắc	
+UI_20150317_000470	{ol}Hành động cho việc áp dụng các quy tắc
+UI_20150317_000471	Nhập tên quy tắc
+UI_20150317_000472	{Gr gradation1}Đăng kí{/}
+UI_20150317_000473	Quy tắc đăng kí
+UI_20150317_000474	{Gr gradation1}Hủy{/}
+UI_20150317_000475	Hủy hành động
+UI_20150317_000476	{@st43}Thông tin thú cưng
+UI_20150317_000477	{@st59b}Thông tin thú cưng{nl}{@st59s} - Bạn có thể cho Thú cưng hoạt động hay nghỉ bằng nút dưới đây. {nl} - Các thuộc tính và trang bị của Thú cưng có thể được tùy chỉnh. {/}
+UI_20150317_000478	{@st59}Đóng{/}
+UI_20150317_000479	{@st41b}Tên : {@sti9}%s{/}
+UI_20150317_000480	{@sti9}%s{@st41b}Sự gần gũi : {@sti9}%s {@st41b}Level{/}
+UI_20150317_000481	{@st41b}EXP{/}
+UI_20150317_000482	{@st41b}Stamina{/}
+UI_20150317_000483	{@st41b}Thân thiết{/}
+UI_20150317_000484	{@st41b}Thuộc tính và Thông tin
+UI_20150317_000485	{@st43}Thú cưng{/}
+UI_20150317_000486	{@st59b}Thú cưng{nl}{@st59s} - Nháy vào Vật Phẩm trong danh sách để có thêm thông tin. {/}
+UI_20150317_000487	{@st59}Đóng{/}
+UI_20150317_000488	{@st59}Đóng{/}
+UI_20150317_000489	{@st59}Trợ giúp{nl} - Xem chi tiết thông tin và lời khuyên. {nl} - Xem những chủ đề khác từ Danh Sách Trợ Giúp {/}
+UI_20150317_000490	{@st43}Trợ Giúp{/}
+UI_20150317_000491	Chủ Đề Trợ giúp
+UI_20150317_000492	{ol}{#AAAA00}{s16}Thời gian đã qua : %s
+UI_20150317_000493	{@st43}Thuốc độc{/}
+UI_20150317_000494	{@st59}Đóng{/}
+UI_20150317_000495	{@st59}Cần phải viết{/}
+UI_20150317_000496	Hàm lượng độc: %s
+UI_20150317_000497	Vật Phẩm cần để chế thuốc độc
+UI_20150317_000498	Chọn tất cả
+UI_20150317_000499	Nháy lần nữa để bỏ chọn tất cả
+UI_20150317_000500	Chế tạo
+UI_20150317_000501	Đảo đảo trộn trộn
+UI_20150317_000502	{@st43}Category{/}
+UI_20150317_000503	{@st43}Tôi{/}
+UI_20150317_000504	{@st43}Mục đích{/}
+UI_20150317_000505	{@st43}Level{/}
+UI_20150317_000506	{@st43}Quỹ{/}
+UI_20150317_000507	{@st43}Tỉ lệ{/}
+UI_20150317_000508	{@st43}Tỉ lệ PVP thắng/thua{/}
+UI_20150317_000509	{@st59}Đóng{/}
+UI_20150317_000510	{@sti5}Tổng số tiền mua : %s{/}
+UI_20150317_000511	{@sti5}Tổng cộng : %s{/}
+UI_20150317_000512	{@st41b} Mua
+UI_20150317_000513	{@st43}Đã thu được vật liệu để chế tạo vật phẩm!
+UI_20150317_000514	{@st43}Kiệt Tác{/}
+UI_20150317_000515	{@st41}Xóa tất cả
+UI_20150317_000516	{@st42}Mục tiêu trợ cấp {@stx1}(%s required){/}
+UI_20150317_000517	{@st41}Kết hợp
+UI_20150317_000518	{@st43}Nhiệm Vụ{/}
+UI_20150317_000519	{@st59b}Nhiệm Vụ{nl}{@st59s} - Khi bạn có một nhiệm vụ mới, nó sẽ được bổ sung vào danh sách theo dõi. {nl} - Nhiệm vụ chính có màu vàng, nhiệm vụ phụ có màu xanh. {nl} -  Mũi tên ở dưới nhân vật sẽ dẫn tới địa điểm nhiệm vụ của bạn. {nl} - Nếu bạn hoàn thành một nhiệm vụ, sẽ có 1 icon 'trở về' xuất hiện bên danh sách theo dấu nhiệm vụ. {nl}    (Dịch chuyển về NPC của nhiệm vụ bằng nút backspace hoặc nhấp chuột vào icon 'trở về') {nl} - Thêm hoặc xóa nhiệm vụ ở trong danh sách theo dõi nhiệm vụ bằng cách đánh dấu hoặc bỏ đánh dấu vào ô trước tên nhiệm vụ. {/}
+UI_20150317_000520	{@st41b}Đang thực hiện{/}
+UI_20150317_000521	{@st41b}Đầu hàng{/}
+UI_20150317_000522	{@st43}{s22}Thông tin nhiệm vụ{/}
+UI_20150317_000523	Hoàn thành nhiệm vụ
+UI_20150317_000524	{@st41}Hoàn thành{/}
+UI_20150317_000525	Thông tin tiến trình của nhiệm vụ
+UI_20150317_000526	{s18}{ol}Thông tin nhiệm vụ
+UI_20150317_000527	{s16}Thời gian còn lại
+UI_20150317_000528	Dùng Vật phẩm nhiệm vụ
+UI_20150317_000529	Gợi ý nhiệm vụ
+UI_20150317_000530	{@st41}Xác nhận{/}
+UI_20150317_000531	{@st43}{s22}Nhiệm vụ hoàn thành{/}
+UI_20150317_000532	{@st41b}hoàn thành{/}
+UI_20150317_000533	{@st41}Đồng ý{/}
+UI_20150317_000534	{@st41}Từ chối{/}
+UI_20150317_000535	{@st44}Trở lại{/}
+UI_20150317_000536	Bạn muốn trở về nhiệm vụ nào?
+UI_20150317_000537	{@st41b}Tên Nhiệm vụ của Class{/}
+UI_20150317_000538	{@st59}Mở rộng slot{/}
+UI_20150317_000539	{@st59}Giảm Slots{/}
+UI_20150317_000540	{@st59}Triệu hồi thú cưng.{/}
+UI_20150317_000541	{@st44}Menu{/}
+UI_20150317_000542	{@st60}Chọn Nhân Vật{/}
+UI_20150317_000543	{@st60}Đăng Xuất{/}
+UI_20150317_000544	{@st60}Thoát Game{/}
+UI_20150317_000545	{@st60}Thiết lập Game{/}
+UI_20150317_000546	{@st60}Trở lại{/}
+UI_20150317_000547	{@st41}Bỏ qua hướng dẫn{/}
+UI_20150317_000548	{@st41}Chọn Nhân Vật{/}
+UI_20150317_000549	{@st41}Đăng Xuất{/}
+UI_20150317_000550	{@st41}Thoát Game{/}
+UI_20150317_000551	{@st41}Trở lại{/}
+UI_20150317_000552	{@st43}{s22}Tập hợp cho cuộc tập kích!
+UI_20150317_000553	{@st41b}Quái vật đang tiếp cận vùng ngoại ô của Lâu đài trong thị trấn. Chỉ có bạn mới có thể giải quyết vấn đề này.
+UI_20150317_000554	{@st43}{s22}Thiết lập Game{/}
+UI_20150317_000555	{@sti7}Tìm kiếm tổ đội tập kích...{/}
+UI_20150317_000556	{@st41b}Hủy tham gia
+UI_20150317_000557	{@st41b}Tôi sẽ làm gì đó!
+UI_20150317_000558	{@st41b}tôi không nghĩ tôi có thể giúp bây giờ...
+UI_20150317_000559	{@sti7}{s24}Chọn phần thưởng tập kích{/}
+UI_20150317_000560	{@st42b}Thời gian còn lại {@st43}%s{@st42b} Giây{/}
+UI_20150317_000561	{@st41b}Tăng số lựa chọn
+UI_20150317_000562	{@43b}{s22} Số lần chọn : {@st43}%s{/}
+UI_20150317_000563	Hộp đen loại bỏ dự kiến
+UI_20150317_000564	{@st43}Xếp hạng{/}
+UI_20150317_000565	{@st59}Đóng{/}
+UI_20150317_000566	{@st41}Giết quái Top 100{/}
+UI_20150317_000567	{@st41}Sát thương Top 100{/}
+UI_20150317_000568	{@st41}Tiền Top 100{/}
+UI_20150317_000569	{@st41}Lên Level Top 100{/}
+UI_20150317_000570	{@st41b}Menu{/}
+UI_20150317_000571	{@st43}{s22}Cường Hóa Vật Phẩm{/}
+UI_20150317_000572	{@st41b}Vật Phẩm đã chọn
+UI_20150317_000573	{@st41b}Cái đe rèn
+UI_20150317_000574	{@st41}{s20}Số lần đe :{@st43} %s
+UI_20150317_000575	{@st41} {s20}Giá : %s
+UI_20150317_000576	{@st41b}Cường hóa{/}
+UI_20150317_000577	{@st59}Bắt đầu cường hóa{/}
+UI_20150317_000578	{@st59}Đóng{/}
+UI_20150317_000579	{@st41b} Bạn có muốn tinh luyện {@sti9}×%s{/} vật phẩm đã chọn?{/}
+UI_20150317_000580	{@st43}Cường hóa
+UI_20150317_000581	{@st44}Cường háo vật phẩm{/}
+UI_20150317_000582	{s24}{b}{#000000}Cường hóa thành công!
+UI_20150317_000583	{@st41}Cường hóa lại{/}
+UI_20150317_000584	{@st41}Đóng{/}
+UI_20150317_000585	{s18}{ol}{gr gradation1}Sửa trang bị{/}
+UI_20150317_000586	Trang bị đang đeo
+UI_20150317_000587	Trang bị trong túi đồ
+UI_20150317_000588	{Gr gradation1}Chọn tất cả{/}
+UI_20150317_000589	Chọn tất cả
+UI_20150317_000590	{Gr gradation1}Sửa{/}
+UI_20150317_000591	{@st43}Sửa{/}
+UI_20150317_000592	Danh sách vật phẩm cần sửa
+UI_20150317_000593	{@st41b}Giá sửa{/}
+UI_20150317_000594	{@st41b}Sau khi sửa{/}
+UI_20150317_000595	{@st41b}Sửa{/}
+UI_20150317_000596	Sửa vật phẩm đã chọn.
+UI_20150317_000597	{@st59}Đóng sửa đồ{/}
+UI_20150317_000598	{@st43}Gia cố Vật phẩm{/}
+UI_20150317_000599	{@st41}Danh sách vật phẩm có thể Gia cố{/}
+UI_20150317_000600	{@st44}Gia cố vật phẩm{/}
+UI_20150317_000601	{@st42}Gia cố{/}
+UI_20150317_000602	{@st59}Gia cố với Thiết lập hiện tai{/}
+UI_20150317_000603	{@st59}Không Gia cố{/}
+UI_20150317_000604	{@st44}Tiếp tục{/}
+UI_20150317_000605	{@st41b}Bạn đã {/}{s20}{#cc6600}{ol} không còn khả năng chiến đấu{/}{@st41b}{/}
+UI_20150317_000606	{@st41b}Hồi sinh tại điểm hồi phục{/}
+UI_20150317_000607	{@st41b}Hồi sinh tại đây (Cần %s iCoins) {/}
+UI_20150317_000608	{@st41b}Trở lại chiến trường{/}
+UI_20150317_000609	{@st41b}Đâu hàng nhiệm vụ và làm lại{/}
+UI_20150317_000610	{@st41b}Thử lại{/}
+UI_20150317_000611	Thánh Đường Phục Sinh (70031)
+UI_20150317_000612	Vật phẩm yêu cầu bị thiếu.
+UI_20150317_000613	Phím tắt nghỉ ngơi
+UI_20150317_000614	{@st43}Hộp thoại{/}
+UI_20150317_000615	Tên tạm thời
+UI_20150317_000616	{@st41b} {s18} Không gian túi đồ không đủ 
+UI_20150317_000617	Bạn không thể nhặt vật phẩm vì túi đồ đã đầy{nl}Hãy dọn túi đồ của bạn.
+UI_20150317_000618	{@st44}Bộ vật phẩm có được!{/}
+UI_20150317_000619	Hãy chọn một vật phẩm
+UI_20150317_000620	{@st59b} Cửa Hàng {nl} {@st59s} - Nháy chuột phải để mua số lượng lớn {nl} - Nháy đúp chuột phải để bán số lượng lớn {/}
+UI_20150317_000621	{@st59}Đóng{/}
+UI_20150317_000622	{@st59}Trang đầu{/}
+UI_20150317_000623	{@st59}Trang tiếp{/}
+UI_20150317_000624	{@st59}Trang cuối{/}
+UI_20150317_000625	{@st41b}Reset{/}
+UI_20150317_000626	{@st59}Reset Giỏ mua hàng{/}
+UI_20150317_000627	{@st41b}Xác nhận{/}
+UI_20150317_000628	{@st59}Xác nhận Giao dịch{/}
+UI_20150317_000629	{@st43}Cửa hàng{/}
+UI_20150317_000630	{@st41b}Vật phẩm mua{/}
+UI_20150317_000631	{@st41b}Vật phẩm bán{/}
+UI_20150317_000632	{@st41b}Giá{/}
+UI_20150317_000633	{@st41b}Tiền còn lại{/}
+UI_20150317_000634	{@st41b}Vật Phẩm tôi đã bán{/}
+UI_20150317_000635	{@st41}Chỗ trống{/}
+UI_20150317_000636	{@st43}Tổng{/}
+UI_20150317_000637	{@st41}Giải quyết giao dịch{/}
+UI_20150317_000638	{@st41}Sau giao dịch{/}
+UI_20150317_000639	{@st41}Vật phẩm đã mua{/}
+UI_20150317_000640	{@sti1c}Mua thánh vật
+UI_20150317_000641	{@st41}Kỹ năng chế tạo
+UI_20150317_000642	{@st42}Level %s{/}
+UI_20150317_000643	Giá chế tạo
+UI_20150317_000644	Số lượng chế tạo
+UI_20150317_000645	Tiêu thụ khoảng %s giây
+UI_20150317_000646	{@st41}Chế tạo
+UI_20150317_000647	{@st43}Kỹ năng và thuộc tính{/}
+UI_20150317_000648	{@st59}Đóng{/}
+UI_20150317_000649	{@st59b}Class{nl}{@st59s}- Bạn có thể học kĩ năng mới bằng cách tăng circle của class. {nl} - Bạn có thể chọn từ 3 class mới để nâng cấp từ cấp 1 tới cấp 2. {nl} - bạn có thể nâng cấp cùng 1 class tới 3 lần. {nl} -  Bạn không thể thay đổi trở lại class của bạn trước đó khi bạn nâng cấp đến class khác. {nl} - Bạn cần xài hết điểm kĩ năng trước khi nâng cấp. {nl} - Bạn có thể chọn class như trước.{nl}{@st59b}Kỹ năng{nl}{@st59s} - Bạn có thể tăng kĩ năng của mổi class tới cấp 5..{nl} - Bạn có thể xem các thuộc tính đã học ở dưới các kĩ năng. {/}
+UI_20150317_000650	{@st41b}Áp dụng{/}
+UI_20150317_000651	{@st59}Áp dụng{/}
+UI_20150317_000652	Cleric
+UI_20150317_000653	{@st59}Hủy{/}
+UI_20150317_000654	Đang học {#ff4400}%s (Lv. %s){/}...
+UI_20150317_000655	Psychohassle
+UI_20150317_000656	%s Phút(s) còn lại
+UI_20150317_000657	{@st43}Đặt ra{/}
+UI_20150317_000658	{@st59}Đóng{/}
+UI_20150317_000659	{@st41}Bảng{/}
+UI_20150317_000660	{@st41}Trao đổi{/}
+UI_20150317_000661	{@st41}Chức năng xã hội{/}
+UI_20150317_000662	{@st41b}Viết{/}
+UI_20150317_000663	{@st41}Đăng kí{/}
+UI_20150317_000664	{@st59}Bài Đăng kí{/}
+UI_20150317_000665	{@st41}Bắt đầu trang Cá nhân{/}
+UI_20150317_000666	{@st59}Công bố trang Cá nhân{/}
+UI_20150317_000667	{@st59}Đăng kí lời chào{/}
+UI_20150317_000668	{@st41b}1. Menu{/}
+UI_20150317_000669	{@st41}Thăm{/}
+UI_20150317_000670	{@st59}Thăm trang Cá nhân{/}
+UI_20150317_000671	{@st41}Bán{/}
+UI_20150317_000672	{@st59}Bán vật phẩm{/}
+UI_20150317_000673	{@st43}Nơi sống{/}
+UI_20150317_000674	{@st59}Đóng{/}
+UI_20150317_000675	{@st41}Xem Tất cả{/}
+UI_20150317_000676	{@st41}Tạo bản đồ{/}
+UI_20150317_000677	{@st41}%s/phút (%s trong tay){/}
+UI_20150317_000678	Anh hùng bàn phím
+UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Level{/}
+UI_20150317_000680	{@st41_yellow}Thời gian làm việc
+UI_20150317_000681	{@st43}Hình trên tường/}
+UI_20150317_000682	{@st59}Đóng{/}
+UI_20150317_000683	{@st41b}Lời khuyên: Vẽ một bức tranh vào khung bên dưới{/}
+UI_20150317_000684	{@st41b}Màu sắc{/}
+UI_20150317_000685	{@st41b}Số lượng{/}
+UI_20150317_000686	{@st41b}Bút vẽ{/}
+UI_20150317_000687	{@st43}Vẽ{/}
+UI_20150317_000688	{@st59}Vẽ bức tranh hoàn thiện trên mặt đất.{/}
+UI_20150317_000689	{@st41b}{a Lưu_EDIT_SPRAY}Lưu{/}{/}
+UI_20150317_000690	{@st59}Lưu bản vẽ{/}
+UI_20150317_000691	{@st41b}{a LOAD_EDIT_SPRAY}Mở{/}{/}
+UI_20150317_000692	{@st59}Mở bức tranh đang vẽ dở.{/}
+UI_20150317_000693	{@st59}Chọn màu 1{/}
+UI_20150317_000694	{@st59}Chọn màu 2{/}
+UI_20150317_000695	{@st59}Danh sách màu{/}
+UI_20150317_000696	{@st59}Chọn bút vẽ{/}
+UI_20150317_000697	{@st59}Bút 1{/}
+UI_20150317_000698	{@st59}Bút 2{/}
+UI_20150317_000699	{@st59}Bút 3{/}
+UI_20150317_000700	{@st59}Bút 4{/}
+UI_20150317_000701	{@st59}Bút 5{/}
+UI_20150317_000702	{@st59}Bút 6{/}
+UI_20150317_000703	{@st49}Người thích điều này{/}
+UI_20150317_000704	{s20}{#050505}Mô tả bất cứ điều gì
+UI_20150317_000705	{@st41} Tất cả {/}
+UI_20150317_000706	{@st41} Tổ đội {/}
+UI_20150317_000707	{@st41} Quái {/}
+UI_20150317_000708	{@st41b}{#f0dcaa}Điểm trạng thái còn lại ▶ {@st46}%s
+UI_20150317_000709	{@st59b}Thông tin của tôi{nl}{@st59s}- Trạng thái : Sử dụng điểm kiếm được khi lên lv để tăng 5 chỉ số thuộc tính. {nl}- Thông tin : Đây là thông tin dựa trên chỉ số hiện tại và trang bị. {nl}- Danh Hiệu : Bạn có thể nhận được danh hiệu khi hoàn thành thành tựu. {nl} {/}
+UI_20150317_000710	{@st41b}Thông tin{/}
+UI_20150317_000711	{@st41b}Danh hiệu{/}
+UI_20150317_000712	Hiển thị Class
+UI_20150317_000713	Hiển thị tên nhân vật
+UI_20150317_000714	{@st59}Đổi tên nhân vật{/}
+UI_20150317_000715	{@st41b}Áp dụng
+UI_20150317_000716	{@st59}Áp dụng{/}
+UI_20150317_000717	{@st41b}Hủy
+UI_20150317_000718	{@st59}Hủy{/}
+UI_20150317_000719	Tên PC
+UI_20150317_000720	{@st41_yellow}Level: {@st41}%s{/}
+UI_20150317_000721	{@st41_yellow}Kỹ năng đánh thuê
+UI_20150317_000722	{@st43}Hiệu ứng tấn công{/}
+UI_20150317_000723	{@st43}Hiệu ứng phòng thủ{/}
+UI_20150317_000724	{@st43}Chỉ số{/}
+UI_20150317_000725	Menu hệ thống dọc dự kiến loại bỏ
+UI_20150317_000726	{@st59}Thông tin nhân vật (F1){/}
+UI_20150317_000727	{@st59}Túi đồ (F2){/}
+UI_20150317_000728	{@st59}Classes & Kỹ Năng (F3){/}
+UI_20150317_000729	{@st59}Phiêu Lưu Nhật Ký (F4){/}
+UI_20150317_000730	{@st59}Nhiệm Vụ (F5){/}
+UI_20150317_000731	{@st59}Tổ Đội (F6){/}
+UI_20150317_000732	{@st59}Bạn Bè (F7){/}
+UI_20150317_000733	{@st59}Macro (F8) {/}
+UI_20150317_000734	{@st59}Thú Cưng (F9) {/}
+UI_20150317_000735	{@st59}Trợ Giúp (F10) {/}
+UI_20150317_000736	{@st59}Menu Hệ Thống (Esc){/}
+UI_20150317_000737	{@st59}Necronomicon{/}
+UI_20150317_000738	Trợ Giúp (F1)
+UI_20150317_000739	Nội dung
+UI_20150317_000740	Xem chi tiết
+UI_20150317_000741	{@st43}Thiết lập Game{/}
+UI_20150317_000742	{@st43}Game{/}
+UI_20150317_000743	{@st41b}Hiển thị EXP nhận được{/}
+UI_20150317_000744	{@st41b}Hiển thị tên nhân vật{/}
+UI_20150317_000745	{@st41b}Chỉ hiển thị Tên Gia Đình{/}
+UI_20150317_000746	{@st41b}Hiển thị hướng dẫn nhiệm vụ{/}
+UI_20150317_000747	{@st43}Độ Phân giải{/}
+UI_20150317_000748	{@st43}Đồ họa{/}
+UI_20150317_000749	{@st41b}Toàn màn hình{/}
+UI_20150317_000750	{@st41b}Chế độ cửa sổ{/}
+UI_20150317_000751	{@st43}Âm thanh{/}
+UI_20150317_000752	{@st41b}Âm thanh hiệu ứng (%s){/}
+UI_20150317_000753	{@st41b}Âm thanh BGM (%s){/}
+UI_20150317_000754	{@st41b}Âm thanh (%s){/}
+UI_20150317_000755	{@st43}{b}Chọn Ngôn ngữ{/}
+UI_20150317_000756	{@st59}Đóng{/}
+UI_20150317_000757	{@st41b}Chế độ tối thiểu {/}
+UI_20150317_000758	{@st41b}Góc nhìn{/}
+UI_20150317_000759	{@st59}Credits{/}
+UI_20150317_000760	Cửa sổ đối tượng buff
+UI_20150317_000761	{@st46}Tranh của IMC
+UI_20150317_000762	{@st46}Tranh của %s
+UI_20150317_000763	{@st46}Thích
+UI_20150317_000764	{@st46}Báo cáo
+UI_20150317_000765	{@st46}Dùng chất bảo quản
+UI_20150317_000766	{@st46}Xóa tranh
+UI_20150317_000767	Tuyết Ảo giác
+UI_20150317_000768	Bó hoa
+UI_20150317_000769	{@st41} Quà tặng
+UI_20150317_000770	Hãy nhập số lượng
+UI_20150317_000771	{@st53b}%s Thắng %s Thua
+UI_20150317_000772	{@st42}Lịch trình hôm nay
+UI_20150317_000773	{@st53}Bắt đầu từ :
+UI_20150317_000774	{@st53b}Nhận quà : ×%s
+UI_20150317_000775	{@st43b}Gửi quà tới %s{/}
+UI_20150317_000776	{@st55_a}Trận đấu tiếp theo
+UI_20150317_000777	{@st53}- Nhấn vào tên để theo dõi{nl}- Nhấn chuột phải để nhận quà
+UI_20150317_000778	Nhân vật ở trung tâm camera
+UI_20150317_000779	{@st55_a}Chúc Mừng!
+UI_20150317_000780	{@st42}Đổi camera
+UI_20150317_000781	{@st44}Nhật ký phiêu lưu{/}
+UI_20150317_000782	{@st59}Thay đổi Thiết lập góc nhìn{/}
+UI_20150317_000783	{@st41}Bản thống kê {/}
+UI_20150317_000784	{@st41}Chế tạo {/}
+UI_20150317_000785	{@st41}Săn {/}
+UI_20150317_000786	{@st41}Trợ giúp {/}
+UI_20150317_000787	{@st44}Trang Wiki{/}
+UI_20150317_000788	{@st42}Thông tin{/}
+UI_20150317_000789	{@st42}Chi tiết{/}
+UI_20150317_000790	{@st42}Chiến đấu{/}
+UI_20150317_000791	{@st42}Thu được{/}
+UI_20150317_000792	{@st59}Thoát trang{/}
+UI_20150317_000793	{@st43}Chiến trường
+UI_20150317_000794	{@st59}Thoát chiến trường.
+UI_20150317_000795	(Đồng 3)
+UI_20150317_000796	{@sti8}Điểm có thể nhận hôm nay : {nl}%s{/}
+UI_20150317_000797	{@st41}Cửa hàng điểm
+UI_20150317_000798	{@st41}Xếp hạng
+UI_20150317_000799	{@st42}Lịch trình chiến trường
+UI_20150317_000800	{@st42}Kỷ lục gần đây
+UI_20150317_000801	{@st41}Nhận EXP
+UI_20150317_000802	{@st41}Trang PvP
+UI_20150317_000803	{@st41}Tìm kiếm
+UI_20150317_000804	{@st43}Xếp hạng chiến trường
+UI_20150317_000805	{@st59}Thoát xếp hạng chiến trường
+UI_20150317_000806	{@st56}Tên kỹ năng{/}
+UI_20150317_000807	{@st41}Kiểm tra phối hợp{/}
+UI_20150317_000808	{@st41}Tìm{/}
+UI_20150317_000809	{@st42b}Quản lí hồi quái{/}
+UI_20150317_000810	{@st42b}Danh sách quái{/}
+UI_20150317_000811	{@st42b}Tạo giao diện{/}
+UI_20150317_000812	{@st42b}Sương mù bản đồ{/}
+UI_20150317_000813	{@st42b}Tạo bản đồ{/}
+UI_20150317_000814	{@st42b}Tạo bản đồ nhỏ{/}
+UI_20150317_000815	{@st42b}Hội thoại {/}
+UI_20150317_000816	{@st42b}Đổi Phần thưởng nhiệm vụ{/}
+UI_20150317_000817	{@st42b}Hồi nhóm{/}
+UI_20150317_000818	{@st42b}Thiết lập vị trí bản đồ{/}
+UI_20150317_000819	{@st42b}Bản đồ kỹ năng{/}
+UI_20150317_000820	{@st42b}Danh sách sự kiện{/}
+UI_20150317_000821	{@st42b}Kiểm tra tọa độ{/}
+UI_20150317_000822	{@st42b} Kiểm tra XAC, đường cấu trúc{/}
+UI_20150317_000823	{@st42b}Hiệu năng Tắt/Bật{/}
+UI_20150317_000824	Danh sách hội thoại
+UI_20150317_000825	Tìm kiếm
+UI_20150317_000826	{@st41}Xem trước{/}
+UI_20150317_000827	{@st41}Tắt{/}
+UI_20150317_000828	{@st41}Xóa{/}
+UI_20150317_000829	{@st41}Lưu Tất cả{/}
+UI_20150317_000830	{@st41}Áp dụng hình ảnh{/}
+UI_20150317_000831	{#FFFFFF}{ds}Chọn sự kiện
+UI_20150317_000832	{#FFFFFF}{ds}Sửa sự kiện
+UI_20150317_000833	{ol}Danh sánh
+UI_20150317_000834	Tên của nhóm để lưu
+UI_20150317_000835	{@st42}Tạo mới{/}
+UI_20150317_000836	{@st41}Group regen{/}
+UI_20150317_000837	{@st59}Nhập tên quái để tìm kiếm{/}
+UI_20150317_000838	{@st59}Nhập tên nhóm để lưu{/}
+UI_20150317_000839	{@st41}Nhóm mới{/}
+UI_20150317_000840	Bộ lọc
+UI_20150317_000841	{@st59}Nhập bộ lọc{/}
+UI_20150317_000842	{ol}Giá trị tài sản
+UI_20150317_000843	danh sách Class
+UI_20150317_000844	Áp dụng cho XML
+UI_20150317_000845	{#FFFFFF}{ds}Sổ ghi
+UI_20150317_000846	{#FFFFFF}{ds}Xem Tất cả tính chất
+UI_20150317_000847	Nhập từ khóa để tìm kiếm
+UI_20150317_000848	Tất cả giá trị thuộc tính
+UI_20150317_000849	{ol}Tên
+UI_20150317_000850	{ol}Giá trị
+UI_20150317_000851	Giả mạo
+UI_20150317_000852	{ol}Sửa đổi
+UI_20150317_000853	{ol}Giả mạo
+UI_20150317_000854	Dánh sách Class
+UI_20150317_000855	Chuyển đổi XML
+UI_20150317_000856	{ol}Tên Class
+UI_20150317_000857	{ol}Tên tài sản
+UI_20150317_000858	{ol}Đổi giá trị
+UI_20150317_000859	{ol}Áp dụng
+UI_20150317_000860	Mở thư mục
+UI_20150317_000861	Kiểm tra Tất cả
+UI_20150317_000862	Lịch sử
+UI_20150317_000863	Giá trị rollback
+UI_20150317_000864	{ol}Chọn Vật phẩm
+UI_20150317_000865	Nhập tên bạn muốn tìm
+UI_20150317_000866	{@st42}Xác nhận{/}
+UI_20150317_000867	{@st41}Tạo giao diện{/}
+UI_20150317_000868	{ol}Khung
+UI_20150317_000869	{@st41}Khung/}
+UI_20150317_000870	{@st41}Nút bấm{/}
+UI_20150317_000871	{@st41}Chữ{/}
+UI_20150317_000872	{@st42b}Bình thường{img btn_close}
+UI_20150317_000873	{@st42b}Đâu giá{img btn_close}
+UI_20150317_000874	{@st41}Thiết lập vị trí bản đồ{/}
+UI_20150317_000875	{@st41}Đổi tên{/}
+UI_20150317_000876	{@st59}Nhập từ bạn muốn lọc{/}
+UI_20150317_000877	{@st41}Tạo{/}
+UI_20150317_000878	{@st56}Lưu XML{/}
+UI_20150317_000879	{@st56}Reset{/}
+UI_20150317_000880	{@st56}Thộc tính{/}
+UI_20150317_000881	{@st56}Giá trị{/}
+UI_20150317_000882	{@st42}Nội dung{/}
+UI_20150317_000883	{@st41}Làm lại{/}
+UI_20150317_000884	{@st41}Lưu Tất cả{/}
+UI_20150317_000885	{@st41}Mở XML{/}
+UI_20150317_000886	{@st42b}Sửa kỹ năng : 0{/}
+UI_20150317_000887	{@st42b}Sửa kỹ năng : %s{/}
+UI_20150317_000888	{@st42b}Mouse homing{/}
+UI_20150317_000889	{@st42b}Tên kỹ năng{/}
+UI_20150317_000890	{@st41}DAnh sách quái{/}
+UI_20150317_000891	{@st41}Quản lí hiệu năng{/}
+UI_20150317_000892	{ol}Chọn nhiệm vụ
+UI_20150317_000893	Nhập tên nhiệm vụ để tìm kiếm
+UI_20150317_000894	{ol}Chọn bản đồ
+UI_20150317_000895	Nhập tên bản đồ để tìm kiếm
+UI_20150317_000896	{@st42}bản đồ hiện tại{/}
+UI_20150317_000897	{ol}Tên bản đồ
+UI_20150317_000898	{ol}Tọa độ
+UI_20150317_000899	{@st41}Đổi Phần thưởng nhiệm vụ{/}
+UI_20150317_000900	{@st59}Nhập nhiệm vụ để tìm{/}
+UI_20150317_000901	{@st59}Nhập tên vật phẩm để{/}
+UI_20150317_000902	{@st42}EXP
+UI_20150317_000903	{ol}Phần thưởng cơ bản
+UI_20150317_000904	{ol}Số lượng
+UI_20150317_000905	{ol}Phần thưởng thêm
+UI_20150317_000906	{@st45}Cheat thường được sử dụng
+UI_20150317_000907	{@st41}Bản đồ Kỹ năng{/}
+UI_20150317_000908	{@st42}Khả năng{/}
+UI_20150317_000909	{@st42}Warrior{/}
+UI_20150317_000910	{@st42}Wizard{/}
+UI_20150317_000911	{@st42}Archer{/}
+UI_20150317_000912	{@st42}Monk{/}
+UI_20150317_000913	{@st42}Sorcerer{/}
+UI_20150317_000914	{@st41}SKỹ năng{/}
+UI_20150317_000915	{@st59}Mở XML{/}
+UI_20150317_000916	{@st41}Mở{/}
+UI_20150317_000917	{@st59}Lưu thành XML{/}
+UI_20150317_000918	{@st59}Reset bản đồ kỹ năng mở{/}
+UI_20150317_000919	{@st41}Reset{/}
+UI_20150317_000920	{@st59}Reset Tất cả bản đồ kỹ năng{/}
+UI_20150317_000921	{@st41}Reset Tất cả{/}
+UI_20150317_000922	{S18}Xóa scipt
+UI_20150317_000923	{S18}String argument
+UI_20150317_000924	{s18}string 1 argument
+UI_20150317_000925	{s18}string 2 argument
+UI_20150317_000926	{s18}Level kỹ năng tối đa
+UI_20150317_000927	{@st59}Xóa script type box{/}
+UI_20150317_000928	{@st59}Xóa script argument{/}
+UI_20150317_000929	{@st59}Level kỹ năng tối đa{/}
+UI_20150317_000930	{@st59}Lưu Đặc tính{/}
+UI_20150317_000931	{@st41}Lưu Đặc tính{/}
+UI_20150317_000932	{@st44}Danh sách giao diện{/}
+UI_20150317_000933	{ds}Danh sách Addon
+UI_20150317_000934	{ds}Sửa danh sách khung
+UI_20150317_000935	{@st42}Danh sách giao diện{/}
+UI_20150317_000936	{@st59}Hiện danh sách giao diện{/}
+UI_20150317_000937	{@st42}Điều chỉnh vị trí{/}
+UI_20150317_000938	{@st59}Điều chỉnh vị trí{/}
+UI_20150317_000939	{@st42}Sửa đặc tính{/}
+UI_20150317_000940	{@st59}Sửa đặc tính{/}
+UI_20150317_000941	{@st42}Lưu{/}
+UI_20150317_000942	{@st59}Lưu{/}
+UI_20150317_000943	{@st44}Sửa đặc tính giao diện{/}
+UI_20150317_000944	{@St59}Chọn nhân vật{/}
+UI_20150317_000945	{@St59}Đăng xuất{/}
+UI_20150317_000946	{@St59}Thiết lập{/}
+UI_20150317_000947	{@St59}Thoát{/}
+UI_20150317_000948	{@st43}Thiết lập Căn cứ{/}
+UI_20150317_000949	{@st59}Đóng{/}
+UI_20150317_000950	{@St42_b}{s18}{#f5c384}Tên Gia Đình{/}
+UI_20150317_000951	{@st59}Nhập Tên Gia Đình {/}
+UI_20150317_000952	{@st59}Lưu Tên Gia Đình{/}
+UI_20150317_000953	Xóa tạm thời
+UI_20150317_000954	{@St59}Đóng{/}
+UI_20150317_000955	{@St43}Trang trí Căn cứ{/}
+UI_20150317_000956	{@St41b}Chủ đề{/}
+UI_20150317_000957	{@St41b}Sắp xếp vật phẩm{/}
+UI_20150317_000958	{@St41b}Tên
+UI_20150317_000959	{@St41b}Giá
+UI_20150317_000960	{@St41b}Trạng thái
+UI_20150317_000961	{@St44}Nhân vật mới{/}
+UI_20150317_000962	{@St41b}{s22}Chọn Class nhân vật{/}
+UI_20150317_000963	{@St41b}Trở lại{/}
+UI_20150317_000964	{@St59}Trở lại Căn cứ mà không tạo nhân vật
+UI_20150317_000965	Đổi nhân vật
+UI_20150317_000966	{@St41}Nhân vật{/}
+UI_20150317_000967	{@St59}Xoay theo kim đồng hồ{/}
+UI_20150317_000968	{@St59}Xoay ngược kim đồng hồ{/}
+UI_20150317_000969	{@St43b}Xoay nhân vật{/}
+UI_20150317_000970	{@st43}Tên nhân vật{/}
+UI_20150317_000971	Nhập tên{@st59} {/}
+UI_20150317_000972	{@St43b}Chọn giới tính{/}
+UI_20150317_000973	{@St59}Nữ{/}
+UI_20150317_000974	{@St59}Nam{/}
+UI_20150317_000975	{@st43b}Chọn kiểu tóc{/}
+UI_20150317_000976	{@st59}Kiểu tóc 1{/}
+UI_20150317_000977	{@st59}Kiểu tóc 2{/}
+UI_20150317_000978	{@St59}Kiểu tóc 3{/}
+UI_20150317_000979	{@st59}Kiểu tóc 4{/}
+UI_20150317_000980	{@st59}Kiểu tóc 5{/}
+UI_20150317_000981	{@st59}Kiểu tóc 6{/}
+UI_20150317_000982	{@st59}Kiểu tóc 7{/}
+UI_20150317_000983	{@st59}Kiểu tóc 8{/}
+UI_20150317_000984	{@st59}Kiểu tóc 9{/}
+UI_20150317_000985	{@st59}Kiểu tóc 10{/}
+UI_20150317_000986	{@St43b}Chọn Class{/}
+UI_20150317_000987	{@st59}Swordsman{/}
+UI_20150317_000988	{@st59}Wizard{/}
+UI_20150317_000989	{@st59}Archer{/}
+UI_20150317_000990	{@st59}Cleric{/}
+UI_20150317_000991	{@St41b}Thăm Căn cứ {/}
+UI_20150317_000992	{@St59}Thăm Căn cứ của người choi khác.{/}
+UI_20150317_000993	{@St41b}Đăng xuất{/}
+UI_20150317_000994	{@St59}Đi tới trang đăng nhập{/}
+UI_20150317_000995	{@St41b}Thoát game{/}
+UI_20150317_000996	{@St59}Thoát Tree of Savior{/}
+UI_20150317_000997	{@st41b}Chọn Kênh{/}
+UI_20150317_000998	{@st43}Vaof{/}
+UI_20150317_000999	{@St59}Bắt đầu game với nhân vật đã chọn{/}
+UI_20150317_001000	{@St43}{s26}Tên Gia Đình/}
+UI_20150317_001001	{@st59}Tên Gia Đình{/}
+UI_20150317_001002	{@st41b}Đổi Tên Gia Đình{/}
+UI_20150317_001003	{@st59}Đổi Tên Gia Đình{/}
+UI_20150317_001004	{@St41}Thú cưng{/}
+UI_20150317_001005	Kéo khung chat
+UI_20150317_001006	{@St44}Tên hội thoại mới{/}
+UI_20150317_001007	{@St42}Đổi{/}
+UI_20150317_001008	{@St44}Tên Cửa sổ Mới{/}
+UI_20150317_001009	{@St43}{s40}{gr gradation4}Tạo nhân vật{/}
+UI_20150317_001010	{@St59}Tạo 1 nhân vật{/}
+UI_20150317_001011	{@St59}Hủy tạo nhân vật{/}
+UI_20150317_001012	{@St59}Đóng{/}
+UI_20150317_001013	{@St59}Tạo một Team với tên đã nhập{/}
+UI_20150317_001014	{@St43}{s30}{#f0dcaa}Nhập Tên Gia Đình của bạn!
+UI_20150317_001015	{@St41b}Tên Gia Đình sẽ được dùng để đại diện cho tất cả nhân vật của bạn.{nl}Nó là tên thường được sử dụng trong trò chơi khi trao đổi, trò chuyện,...{nl}  Tên Gia Đình có thể được thay đổi vô số lần bằng TP.{/}
+UI_20150317_001016	Đang mở hình nền
+UI_20150317_001017	Lời khuyên
+UI_20150317_001018	Lời khuyên về game
+UI_20150317_001019	Đăng nhập
+UI_20150317_001020	ID tài khoản
+UI_20150317_001021	{@st59}Nhập ID tài khoản{/}
+UI_20150317_001022	Mật khẩu
+UI_20150317_001023	{@St59}Nhập mật khẩu{/}
+UI_20150317_001024	{@St43}Vào{/}
+UI_20150317_001025	{@St59}Kết nối tới server đã chọn{/}
+UI_20150317_001026	{@st41b}Chiếu lại{/}
+UI_20150317_001027	{@st41b}Chế độ đơn{/}
+UI_20150317_001028	{@St41b}Thoát game{/}
+UI_20150317_001029	Lưu
+UI_20150317_001030	{@St59}Nếu chọn, tài khoản của bạn sẽ được lưu {/}
+UI_20150317_001031	Máy chủ
+UI_20150317_001032	{@St59}Chọn Server{/}
+UI_20150317_001033	Tiêu đề đăng nhập
+UI_20150317_001034	[TreeofSaviorVietnam.com]
+UI_20150317_001035	Tùy chọn
+UI_20150317_001036	Phạm vi tầm nhìn
+UI_20150317_001037	{S20}{#BBBBBB}Phạm vi tầm nhìn
+UI_20150317_001038	Phạm vi tầm nhìn :
+UI_20150317_001039	Nhân vật :
+UI_20150317_001040	Đối tượng nền :
+UI_20150317_001041	Địa hình - Cỏ (%) :
+UI_20150317_001042	Địa hình-Cây (%) :
+UI_20150317_001043	Địa hình-Vật thể(%) :
+UI_20150317_001044	Bóng
+UI_20150317_001045	{S20}{#BBBBBB}Ánh xạ bóng
+UI_20150317_001046	Bật ánh xạ bóng
+UI_20150317_001047	Chất lượng bóng :
+UI_20150317_001048	Dùng SSAO
+UI_20150317_001049	Loại SSAO :
+UI_20150317_001050	Độ phân giải SSAO :
+UI_20150317_001051	Sự phản chiếu xuống nước
+UI_20150317_001052	{s20}{#BBBBBB}Sự phản chiếu xuống nước
+UI_20150317_001053	Sự phản chiếu nhân vật xuống nước
+UI_20150317_001054	Sự phản chiếu cảnh nền xuống nước
+UI_20150317_001055	{s20}{#BBBBBB}Thiết lập phát sáng
+UI_20150317_001056	Bật phát sáng
+UI_20150317_001057	{@st41}Tấn công{/}
+UI_20150317_001058	{@St41}Phòng thủ{/}
+UI_20150317_001059	{@st41}Hỗ trợ{/}
+UI_20150317_001060	{@st41}Độ khó{/}
+UI_20150317_001061	{@st41}Kiểu tóc
+UI_20150317_001062	{@st41}Xoay
+UI_20150317_001063	{@st43}Tạo nhân vật
+UI_20150317_001064	{@st59}Tạo nhân vật hiện tại{/}
+UI_20150317_001065	{@st41b}Hủy
+UI_20150317_001066	{@st59}Hủy chọn nhân vật{/}
+UI_20150317_001067	Thông tin nhân vật
+UI_20150317_001068	{@st41}Bring Along
+UI_20150317_001069	{@st59}Sau khi bấm vào đây, chọn nhân vật mà bạn muốn thú cưng đi theo{/}
+UI_20150317_001070	Giao diện chế tạo vật phẩm
+UI_20150317_001071	{s24Tên :
+UI_20150317_001072	{s16} STR :
+UI_20150317_001073	{s16} HP :
+UI_20150317_001074	{s16} AGI :
+UI_20150317_001075	{s16} VIT :
+UI_20150317_001076	{s16} Force :
+UI_20150317_001077	{s18} Sự lựa chọn Class
+UI_20150317_001078	{s18} Kết hợp đúng cách
+UI_20150317_001079	{s18} Providence Evil Union
+UI_20150317_001080	Hong Moo Moon
+UI_20150317_001081	Dae Do Cheon
+UI_20150317_001082	Kiếm lửa
+UI_20150317_001083	Cho adenomas hwageuk
+UI_20150317_001084	Chọc thủng giới tính
+UI_20150317_001085	Yeonhwagyo
+UI_20150317_001086	{S16}Giới tính và bề ngoài
+UI_20150317_001087	Nam
+UI_20150317_001088	Nữ
+UI_20150317_001089	Điều chỉnh tóc
+UI_20150317_001090	Điều chỉnh phím
+UI_20150317_001091	Bề rộng bả vai
+UI_20150317_001092	Kích thước tay và chân
+UI_20150317_001093  Kích thước ngực
+UI_20150317_001094	Kích thước vòng eo
+UI_20150317_001095	Kích thước vòng hông
+UI_20150317_001096	{S18} Kích thước đầu
+UI_20150317_001097	{S14} Điều chỉnh chiều cao
+UI_20150317_001098	{S14} Chiều rộng bả vai
+UI_20150317_001099	{S14} Kích thước tay và chân
+UI_20150317_001100	{S14} Kích thước ngực
+UI_20150317_001101	{S14} Kích thước vòng eo
+UI_20150317_001102	{S14} Kích thước vòng hông
+UI_20150317_001103	Dùng thiết kế sẵn có
+UI_20150317_001104	Tạo ngẫu nhiên
+UI_20150317_001105	Tạo nhân vật mới
+UI_20150317_001106	Hủy tạo nhân vật
+UI_20150317_001107	{@St43}{s40}{gr gradation4}Bắt Đầu{/}
+UI_20150317_001108	{@St43}{s40}{gr gradation4}Kết thúc xem trước{/}
+UI_20150317_001109	{@St43}{s40}{gr gradation4}Trở về khu vực{/}
+UI_20150317_001110	{@St59}Trở về khu vực.{/}
+UI_20150317_001111	{@St41b}Trở về{/}
+UI_20150317_001112	{@St59}Trở về Căn cứ của tôi .{/}
+UI_20150317_001113	{@St43}{s24}Tên Căn cứ{/}
+UI_20150317_001114	{@St59}Tên Căn cứ{/}
+UI_20150317_001115	{@st41b}Trang trí{/}
+UI_20150317_001116	{@St59}Trang trí Căn cứ{/}
+UI_20150317_001117	{@St41b}Thiết lập{/}
+UI_20150317_001118	{@St59}Cài đặt Căn cứ{/}
+UI_20150317_001119	Tùy chỉnh khung vật phẩm
+UI_20150317_001120	Xanh lá
+UI_20150317_001121	Mật độ
+UI_20150317_001122	Giống HP
+UI_20150317_001123	{@st59}Phụ kiện tóc{/}
+UI_20150317_001124	{@st59}Phụ kiện{/}
+UI_20150317_001125	{@St42}Văn bản{/}
+UI_20150317_001126	Tên nôi dung mặc định
+UI_20150317_001127	Tên đội mặc định
+UI_20150317_001128	Tên vật phẩm mặc định
+UI_20150317_001129	Mr Kim
+UI_20150317_001130	Cân nặng : %s
+UI_20150317_001131	N/A
+UI_20150317_001132	%s Loại
+UI_20150317_001133	N/A
+UI_20150317_001134	Không thể trao đổi
+UI_20150317_001135	Không thể cường hóa
+UI_20150317_001136	N/A
+UI_20150317_001137	Tên vật phẩm
+UI_20150317_001138	N/A
+UI_20150317_001139	Lv yêu cầu
+UI_20150317_001140	Mọi người đều có thể trang bị
+UI_20150317_001141	Số khe tối đa : ×%s
+UI_20150317_001142	Tên vật phẩm
+UI_20150317_001143	Giá trị khi bán : %s silver
+UI_20150317_001144	Bao nhiêu
+UI_20150317_001145	{@St42b}Khám phá toàn bộ Siauliai{/}
+UI_20150317_001146	{@St42b}Đã phám phá khu rừng phía Tây{/}
+UI_20150317_001147	{@St18}Vật phẩm{/}
+UI_20150317_001148	{@St18}Hạng của tôi{/}
+UI_20150317_001149	Kim cương
+UI_20150317_001150	Stamina +9.000
+UI_20150317_001151	{@St18}Trung bình{/}
+UI_20150317_001152	{@St42b}{s18}Khéo léo{/}
+UI_20150317_001153	{@St55_c}Tên vật phẩm
+UI_20150317_001154	{@St55_c}Ghi chú
+UI_20150317_001155	{@St59}Nhập một cái tên. Nếu bạn không nhập tên thì sẽ dùng tên mặc định.{/}
+UI_20150317_001156	{@St59}Nhập một ghi chú{/}
+UI_20150317_001157	{@St43}Tạo vật phẩm
+UI_20150317_001158	{@st42b}%s Điểm {/}
+UI_20150317_001159	{@st42b}%s{/}
+UI_20150317_001160	{@st42b}%s Điểm {/}
+UI_20150317_001161	{@st42b}%s{/}
+UI_20150317_001162	{S16}{ol}Mỗi giá
+UI_20150317_001163	Tổng giá : 1
+UI_20150317_001164	{@St41}Trợ giúp
+UI_20150317_001165	{@St41}Mô tả ảnh
+UI_20150317_001166	{@St41}Đăng ký
+UI_20150317_001167	{@St41}Tên 
+UI_20150317_001168	{@St41}Tin nhắn
+UI_20150317_001169	{@St43}Tên{/}
+UI_20150317_001170	{@St41b}Tin nhắn{/}
+UI_20150317_001171	{@St42b}Đăng nhập{/}
+UI_20150317_001172	{@St41}Tạo một hội thoại mới
+UI_20150317_001173	{@St41}Toàn bộ hội thoại
+UI_20150317_001174	Tên khu vực
+UI_20150317_001175	{@St41}Tên kỹ năng
+UI_20150317_001176	{@St41}Điểm thuộc tính
+UI_20150317_001177	{@St41}Tên Class
+UI_20150317_001178	Tên nhân vật
+UI_20150317_001179	{@Sti7}Xóa{/}
+UI_20150317_001180	Level nhân vật
+UI_20150317_001181	{@St42}Chia sẻ nhiệm vụ{/}
+UI_20150317_001182	{@St42}Chia EXP{/}
+UI_20150317_001183	Ghi chú nhân vật
+UI_20150317_001184	Level trung bình của tổ đội : {#FFFF00}%s{/}
+UI_20150317_001185	Tìm kiếm cho : {#FFFF00}%s{/}
+UI_20150317_001186	Cleric / Archer
+UI_20150317_001187	Chia sẻ nhiệm vụ: {#FFFF00}%s{/}
+UI_20150317_001188	N/A
+UI_20150317_001189	Chia EXP: {#FFFF00}%s{/}
+UI_20150317_001190	Chia đều
+UI_20150317_001191	Chia Vật phẩm : {#FFFF00}%s{/}
+UI_20150317_001192	Ngẫu nhiên
+UI_20150317_001193	Làm thế nào để tôi
+UI_20150317_001194	Bạn không nhìn thấy đó là ai
+UI_20150317_001195	{@st41b}Cập nhật nhật ký phiêu lưu
+UI_20150317_001196	Danh sách đối tượng của nhiệm vụ
+UI_20150317_001197	Các loại nhiệm vụ
+UI_20150317_001198	Danh sách đối tượng của nhiệm vụ
+UI_20150317_001199	N/A
+UI_20150317_001200	Đường chỉ trên các lộ trìn
+UI_20150317_001201	Slot Object_Standard
+UI_20150317_001202	Slot Object_Cash Slot
+UI_20150317_001203	Chi tiết nhân vật loại 1
+UI_20150317_001204	Chi tiết nhân vật loại 2
+UI_20150317_001205	Danh Sách Túi Đồ loại 1
+UI_20150317_001206	Danh Sách Túi Đồ loại 2
+UI_20150317_001207	Danh Sách Túi Đồ 
+UI_20150317_001208	Xem chi tiết vật phẩm trong chợ
+UI_20150317_001209	Tên vật phẩm
+UI_20150317_001210	Số lượng hiện có
+UI_20150317_001211	Giá trị
+UI_20150317_001212	Khi bạn thêm nó vào giỏ
+UI_20150317_001213	Tổng giá trị
+UI_20150317_001214	Cho vật phẩm
+UI_20150317_001215	Giá 1 đơn vị
+UI_20150317_001216	Danh sách vật phẩm
+UI_20150317_001217	Tin tức
+UI_20150317_001218	{@St42b}Khởi động lại{/}
+UI_20150317_001219	Peltang Stang
+UI_20150317_001220	99 Circle
+UI_20150317_001221	Giết 8 vubbe điên
+UI_20150317_001222	Công cụ chú thích
+UI_20150317_001223	EXP: sad{br}+1 Enchantment Crystal (Attack)
+UI_20150317_001224	Sửa chữa độ bền :
+UI_20150317_001226	Giá sửa: 120 silver
+UI_20150317_001227	Giá sửa : %s silver
+UI_20150317_001228	{@st42b}Số lần đấu giá {@sti7}%s{/}
+UI_20150317_001229	{@st42b}Giá hiện tại {img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_001230	{@St41}Mua ngay! {Img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_001231	{@St41b}Nhận vật phẩm{/}
+UI_20150317_001232	{@st42b} Giá đấu giá {img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_001233	{@Sti7}Trở lại
+UI_20150317_001234	{@St59}Đầu{/}
+UI_20150317_001235	{@St59}Vòng tay trái{/}
+UI_20150317_001236	{@St59}Vòng tay phải{/}
+UI_20150317_001237	{@St59}Trang phục{/}
+UI_20150317_001238	{@st59}Nhẫn 2{/}
+UI_20150317_001239	Tên thú cưng
+UI_20150317_001240	Chandler bundle	잡화상 묶음				
+UI_20150317_001241	Rừng phía Tây...	서쪽숲등				
+UI_20150317_001242	{memo X}Tiêu hao iCoins	NXP 소모				
+UI_20150317_001243	Tên mỗi loại	카테고리이름				
+UI_20150317_001244	Đây là trợ giúp	도움말 입니당				
+UI_20150317_001245	{@Sti7}%s Điểm{/}	{@sti7}%s 점{/}				
+UI_20150317_001246	{@st41b}%s Số Điểm	{@st41b}%s 점수				
+UI_20150317_001247	Làm xong nhiệm vụ 25	퀘스트 클리어 25개				
+UI_20150317_001248	[Sub]Thron Forest	- [서브] 가시숲				
+UI_20150317_001249	{@St42}Trang bị	{@st42}장착 아이템				
+UI_20150317_001250	{@St44}Thông tin Rank %s Class{/}	{@st44}%s랭크 클래스 정보{/}				
+UI_20150317_001251	Thông báo nâng cấp class	몇차 전직 정보				
+UI_20150317_001252	Like Heart	하트라던가				
+UI_20150317_001253	N/A	쇼드뮨				
+UI_20150317_001254	Level %s	%s 레벨				
+UI_20150317_001255	{memo X}Memo : {#666666}%s	메모 : {#666666}%s				
+UI_20150317_001256	Ayase	아야세				
+UI_20150317_001257	Mối quan hệ với %s	%s 님과의 관계 배지				
+UI_20150317_001258	{#FFFF33}%s{/} muốn kết bạn{/}	{#FFFF33}%s{/} 님이 친구로 초대하였습니다{/}				
+UI_20150317_001259	{@St41b}Chấp nhận{@st41b}수락				
+UI_20150317_001260	{memo X}{@St41b}Từ chối	{@st41b}거절				
+UI_20150317_001261	{@St53b}Đang tải danh sách bạn bè.	{@st53b}친구 목록을 로딩중입니다.				
+UI_20150317_001262	Level %s{/}	레벨 %s{/}				
+UI_20150317_001263	{@st41} Hủy	{@st41}취소				
+UI_20150317_001264	Vui lòng thêm buff muốn bán.	판매할 버프를 등록해주세요.				
+UI_20150317_001265	Giá : %s{/}	가격 : %s{/}				
+UI_20150317_001266	Dung lượng còn lại남은갯수				
+UI_20150317_001267	{@St41}Mua	{@st41}구매				
+UI_20150317_001268	Dung lượng còn lại : %s {/}	남은갯수 : %s{/}				
+UI_20150317_001269	{@St41}Vật Phẩm{/}	{@st41}아이템{/}				
+UI_20150317_001270	{@St41b} Ghi Chú	{@st41b}메모				
+UI_20150317_001271	{@St41b}Chế Tạo	{@st41b}제작				
+UI_20150317_001272	{memo X}{@St41b}Giá : %s{/}	{@st41b}가격 : %s{/}				
+UI_20150317_001273	{@Sti5}Giá : %s{/}	{@sti5}가격 : %s{/}				
+UI_20150317_001274	{@Sti9} Nhiệm vụ tổ đội (%s){/}	{@sti9}파티원 퀘스트 (%s){/}				
+UI_20150317_001275	{@st41_yellow} Khám phá thế giới %s% {/}	{@st41_yellow}탐색율 %s%{/}				
+UI_20150317_001276	{@st41_yellow} Điểm %s {/}	{@st41_yellow}획득점수 %s{/}				
+UI_20150317_001277	{@st42b}{b}Tỷ lệ thành tích{/}	{@st42b}{b}달성율{/}				
+UI_20150317_001278	{@st59}Tham gia nhiệm vụ đội{/}	{@st59}파티 퀘스트 진행을 수락합니다{/}				
+UI_20150317_001279	Cửa Sổ	윈도우				
+UI_20150317_001280	Trạng Thái	스테이더스				
+UI_20150317_001281	Tab	탭				
+UI_20150317_001282	Ảnh vật phẩm	이미지아이템				
+UI_20150317_001283	Hiệu ứng	이펙트				
+UI_20150317_001284	Bộ Điều Khiển	컨트롤셋				
+UI_20150317_001285	{@St41}Độ Khó : %s	{@st41}난이도 : %s				
+UI_20150317_001286	{@St42}Thời gian còn lại : %s	{@st42}남은 시간 : %s				
+UI_20150317_001287	{@St53}Chế tạo vật phẩm	{@st53}제조 중인 아이템				
+UI_20150323_001288	{@st59}Đặc vật phẩm ở đây{/}	{@st59}아이템을 올려주세요{/}				
+UI_20150323_001289	{@st42}Hủy	{@st42}취 소				
+UI_20150323_001290	{@st42}Xác Nhận	{@st42}확 인				
+UI_20150323_001291	{@st43}Briquetting{/}	{@st43}브리케팅{/}				
+UI_20150323_001292	Tiềm năng hiện tại	현재 포텐셜				
+UI_20150323_001293	Vật liệu tiêu hao	소비 재료				
+UI_20150323_001294	Số lượng tiêu thụ	소비 갯수				
+UI_20150323_001295	Lich sử giao dịch	보유 갯수				
+UI_20150323_001296	{memo X}{@sti6}Transaction Record	{@sti6}거래 기록				
+UI_20150323_001297	{memo X}{@st43}Căn cứ	{@st43}거점				
+UI_20150323_001298	Tiêu đề bảng biểu	간판 제목				
+UI_20150323_001299	{memo X}{@st43}Xây	{@st43}건설				
+UI_20150323_001300	{memo X}{@stc1}Thời gian Căn cứ	{@stc1}거점 유지 시간				
+UI_20150323_001301	{@stc1}Hiệu Ứng	{@stc1}효과				
+UI_20150323_001302	{@stc1}Nguyên Liệu Và Giá	{@stc1}소비재료 및 비용				
+UI_20150323_001303	{memo X}{@st41b}Căn cứ	{@st41b}거점				
+UI_20150323_001304	{memo X}{@st41b}Nhật ký	{@st41b}로그				
+UI_20150323_001305	{@st41b}Làm mới	{@st41b}시간 갱신				
+UI_20150323_001306	{@st59}Làm mới thời gian của Căn cứ.{/}	{@st59}유지 시간을 갱신합니다{/}				
+UI_20150323_001307	{memo X}{@st41b}Thời gian Căn cứ	{@st41b}거점 유지 시간				
+UI_20150323_001308	{@st41b}Hiệu Ứng	{@st41b}효과				
+UI_20150323_001309	{memo X}{@st42b}Thời gian Căn cứ được tăng lên khi nó được làm lại{nl} Cần %s silver.	{@st42b}갱신시 24시간 추가 거점이 유지되며 %s실버가 소모됩니다.				
+UI_20150323_001310	{memo X}{@st41b}Kho Của tôi	{@st41b}개인 창고				
+UI_20150323_001311	{memo X}{@stc1}Cất và lấy đồ ra khỏi kho tốn %s silver.{/}	{@stc1}창고에 물품을 보관하고 찾을시에 %s실버가 소모됩니다.{/}				
+UI_20150323_001312	{memo X}{@st41}{#ffff00}Khóa mục tiêu{/}	{@st41}{#ffff00}타겟 고정{/}				
+UI_20150323_001313	{@st43}Bàn giải khát	{@st43}배식 테이블				
+UI_20150323_001314	{memo X}{@st41b}Loại thức ăn	{@st41b}음식종류				
+UI_20150323_001315	{memo X}{@st41b}Bàn	{@st41b}테이블				
+UI_20150323_001316	{@st59}Đóng{/}	{@st59}배식테이블을 닫습니다{/}				
+UI_20150323_001317	{@st43}Grimoire{/}	{@st43}그리모어{/}				
+UI_20150323_001318	{@st59}Đóng giao diện Grimoire{/}	{@st59}그리모어 UI를 닫습니다{/}				
+UI_20150323_001319	{memo X}Kỹ năng triệu hồi của tôi	내 소환 스킬				
+UI_20150323_001320	Thẻ bài chính	메인 카드				
+UI_20150323_001321	Thẻ bài phụ	보조카드				
+UI_20150323_001322	{memo X}Chỉ Sổ	스텟				
+UI_20150323_001323	{memo X}CON	콘				
+UI_20150323_001324	{memo X}INT	인트				
+UI_20150323_001325	{memo X}DEX	덱스				
+UI_20150323_001326	{memo X}CRT	크리				
+UI_20150323_001327	{memo X}{@st43}Dựng cửa hàng{/}	{@st43}상점 개설{/}				
+UI_20150323_001328	{@st41b}Cài Đặt	{@st41b}설정				
+UI_20150323_001329	Giá đơn vị	개당 가격				
+UI_20150323_001330	{@st41b}Danh sách nguyên liệu	{@st41b}재료 목록				
+UI_20150323_001331	{memo X}{@st43}Gem Roasting{/}	{@st43}젬로스팅{/}				
+UI_20150323_001332	{@st59}Đóng giao diện{/}	{@st59}UI를 닫습니다{/}				
+UI_20150323_001333	{@st41b}Sửa chữa {/}	{@st41b}손질{/}				
+UI_20150323_001334	{memo X}{@st41b}Lưu ký{/}	{@st41b}로그{/}				
+UI_20150323_001335	{memo X}Giá để nhận	받는 가격				
+UI_20150323_001336	{@st59}Để gem vào{/}	{@st59}젬을 올려주세요{/}				
+UI_20150323_001337	Vật phẩm sử dụng	소비재료				
+UI_20150323_001338	Số lượng còn lại	남은 갯수				
+UI_20150323_001339	{@st42}Đóng	{@st42}폐점				
+UI_20150323_001340	{@st43}Bảo trì vũ khí{/}	{@st43}무기 손질{/}				
+UI_20150323_001341	{@st43}Bảo trì thiết bị{/}	{@st43}장비 손질{/}				
+UI_20150323_001342	{memo X}{@st41b}Giá để nhận	{@st41b}받는 가격				
+UI_20150323_001343	{@st41b}Nguyên liệu	{@st41b}소비재료				
+UI_20150323_001344	{@st43}Sửa{/}	{@st43}수 리{/}				
+UI_20150323_001345	{@st41b}Sửa{/}	{@st41b}수리{/}				
+UI_20150323_001346	Kỹ năng Level	스킬레벨				
+UI_20150323_001347	{@st41}Số người cần để bắt đầu	{@st41}입장가능 인원				
+UI_20150323_001348	{@st43}Vật phẩm nâng cấp phó bảnItem upgrade dungeon	{@st43}아이템 각성 던전				
+UI_20150323_001349	{@st41}Nguyên liệu cần	{@st41}필요 재료				
+UI_20150323_001350	{@st59}Nguyên liệu cần{/}	{@st59}필요재료{/}				
+UI_20150323_001351	Đề nghị Level : %s	권장 레벨 : %s				
+UI_20150323_001352	{memo X}{@st43}Chọn chế độ giao diện{/}	{@st43}UI 선택 모드{/}				
+UI_20150323_001353	{@st43}Cửa hàng Buy-in	{@st43}매입의뢰상점				
+UI_20150323_001354	Tên cửa hàng	상점 이름				
+UI_20150323_001355	{@st41b}Mở cửa hàng	{@st41b}상점열기				
+UI_20150323_001356	{@st59}Bắt đầu cửa hàng Buy-in{/}	{@st59}매입의뢰상점을 시작합니다{/}				
+UI_20150323_001357	{@st59}Hủy{/}	{@st59}취소합니다{/}				
+UI_20150323_001358	{@st59}Đóng Buy-in Shop{/}	{@st59}매입의뢰상점을 닫습니다{/}				
+UI_20150323_001359	Yêu Cầu  Buy-in	매입의뢰				
+UI_20150323_001360	{memo X}{@st59}Đóng cửa hàng Buy-in 	{@st59}매입의뢰상점을 닫습니다.				
+UI_20150323_001361	{memo X}{@st59}Cửa Hàng Buy-in {nl} - Đổi vật phấm lấy silver	{@st59}매입의뢰상점{nl} - 내가 가진 물건을 실버로 교환할 수 있습니다.				
+UI_20150323_001362	{memo X}{@st43}Vật phẩm người mua muốn{/}	{@st43}의뢰자가 원하는 물건{/}				
+UI_20150323_001363	{memo X}{@st43}Vật phẩm bán	{@st43}판매하고자 하는 물건				
+UI_20150323_001364	{memo X}{@st43}Tổng doanh thu	{@st43}총 수입				
+UI_20150323_001365	{memo X}{@st41}Bán	{@st41}판매				
+UI_20150323_001366	{@st41}Nguyên liệu Alchemy 	{@st41}연금 재료				
+UI_20150323_001367	{@st41}Kết quả Alchemy  {@stx1}(%s required){/}	{@st41}연금 대상 {@stx1}(%s 소요){/}				
+UI_20150323_001368	{@st59}Triệu hồi thú nuôi{/}	{@st59}펫을 소환합니다.{/}				
+UI_20150323_001369	{@st41b}Nhân Vật{/}	{@st41b}캐릭터 설정{/}				
+UI_20150323_001370	{@st59}Grimoire{/}	{@st59}그리모어{/}				
+UI_20150323_001371	{memo X}{@st41b}Áp dụng Bloom{/}	{@st41b}블룸 적용{/}				
+UI_20150323_001372	{memo X}{@st41b}Áp dụng Vignette{/}	{@st41b}비넷팅 적용{/}				
+UI_20150323_001373	{memo X}{@st41b}Áp dụng FXAA{/}	{@st41b}FXAA 적용{/}				
+UI_20150323_001374	{memo X}{@st41b}Áp dụng chói sáng{/}	{@st41b}GLOW 적용{/}				
+UI_20150323_001375	{memo X}{@st41b}Áp dụng chiều sâu {/}	{@st41b}Depth 적용{/}				
+UI_20150323_001376	{memo X}{@st41b}Áp dụng SoftParticle{/}	{@st41b}SoftParticle 적용{/}				
+UI_20150323_001377	{@st43}Kho của tôi{/}	{@st43}개인 창고{/}				
+UI_20150323_001378	{memo X}{@st59}Đóng kho{/}	{@st59}개인 창고를 닫습니다.{/}				
+UI_20150323_001379	{memo X}{@sti6}Cất và lấy đồ ra khỏi kho tốn %s silver...{/}	{@sti6}창고에 물품을 보관하고 찾을시에 %s실버가 소모됩니다.{/}				
+UI_20150323_001380	{memo X}{@st59}Alt+z để thay đổi vũ khí{/}	{@st59}Alt+Z로 무기 전환{/}				
+UI_20150323_001381	{@st59}Lưu thiết lập doanh Căn cứ{/}	{@st59}숙소 설정을 저장합니다{/}				
+UI_20150323_001382	Đổi doanh Căn cứ	숙소 변경				
+UI_20150323_001383	{@st59}Đóng cửa sổ đổi doanh Căn cứ	{@st59}숙소 변경창을 닫습니다.				
+UI_20150323_001384	{@st59}Đổi doanh Căn cứ{nl} - Thay đổi khu vực và thêm số nhân vật có thể tạo khi bạn đổi doanh Căn cứ tốt hơn. 	{@st59}속소 변경{nl} - 숙소를 변경하여 맵을 변경하고 인원수를 확장합니다.				
+UI_20150323_001385	{memo X}{@st41}Hủy xem trước	{@st41}미리보기 취소				
+UI_20150323_001386	{memo X}{@st46}iCoins của tôi : %s{/}	{@st46}나의 NXP : %s{/}				
+UI_20150323_001387	{memo X}{@st41b}Đổi doanh Căn cứ{/}	{@st41b}숙소 변경{/}				
+UI_20150323_001388	{@st59}Trang trí doanh Căn cứ{/}	{@st59}숙소 꾸미기{/}				
+UI_20150323_001389	{memo X}{@st41b}Thiết lập doanh Căn cứ{/}	{@st41b}숙소 설정{/}				
+UI_20150323_001390	{@st59}Đổi thiết lập doanh Căn cứ{/}	{@st59}숙소 설정을 변경합니다{/}				
+UI_20150323_001391	{memo X}{@st45ty}Lời chào của nhân vật{/}	{@st45ty}캐릭터 인사말{/}				
+UI_20150323_001392	{memo X}{@st45ty}Cửa Hàng Buy-in 	{@st45ty}매입의뢰상점				
+UI_20150323_001393	{@st41b}Đổi	{@st41b}변경				
+UI_20150323_001394	{@st59}Thay đổi lời chào nhân vật{/}	{@st59}캐릭터 인사말을 변경합니다{/}				
+UI_20150323_001395	{@st59}Dựng cửa hàng Buy-in {/}	{@st59}매입의뢰상점을 설정합니다{/}				
+UI_20150323_001396	Số lượng mua : %s{/}	구매수량 : %s{/}				
+UI_20150323_001397	Tìm vật phẩm muốn mua:	구입할 아이템 검색				
+UI_20150323_001398	Số lượng	구매수량				
+UI_20150323_001399	Giá Đơn	개당가격				
+UI_20150323_001400	{memo X}{@sti5}×%s{/}	{@sti5}%s 개{/}				
+UI_20150323_001401	{@st41}Ăn	{@st41}먹기				
+UI_20150323_001402	{@st41}Chế Tạo	{@st41}제작				
+UI_20150323_001403	{memo X}{@st41}Số lượng	{@st41}제작 갯수				
+UI_20150323_001404	{memo X}{@st41}Vật liệu có thể dùng	{@st41}소비 재료	UI_20150323_001293	Consumable Material	소비 재료	
+UI_20150401_001405	{@st59}Close Briquetting{/}	{@st59}브리케팅을 닫습니다{/}				
+UI_20150401_001406	{memo X}{@st41}Xóa Căn cứ	{@st41}거점 해체				
+UI_20150401_001407	{@st43}[Circle %s]{/}	{@st43}[%s서클]{/}				
+UI_20150401_001408	{@st43}Kỹ năng{/}	{@st43}스킬{/}				
+UI_20150401_001409	{@st43}Mẹo class{/}	{@st43}클래스Tip{/}				
+UI_20150401_001410	Mẹo class	클래스Tip				
+UI_20150401_001411	{memo X}{@st42}{#ffff00}Khóa mục tiêu {/}	{@st42}{#ffff00}타겟 고정{/}				
+UI_20150401_001412	{memo X}{@st41}Xóa bàn	{@st41}테이블 해체				
+UI_20150401_001413	{@st43}Tincturing{/}	{@st43}팅크쳐링{/}				
+UI_20150401_001414	Phím tắt	조이스틱 퀵슬롯				
+UI_20150401_001415	{memo X}{@st42}{#ffff00}Chế độ bàn phím{/}	{@st42}{#ffff00}키보드 모드{/}				
+UI_20150401_001416	{@st43}Mở hộp đề nghị	{@st43}봉헌함 열기				
+UI_20150401_001417	{@st41b}Mở	{@st41b}열기				
+UI_20150401_001418	{@st41b}Hộp đề nghị	{@st41b}봉헌함				
+UI_20150401_001419	{@st41}Tên hộp đề nghị	{@st41}봉헌함 이름				
+UI_20150401_001420	Thanh toán	지급 금액				
+UI_20150401_001421	Lợi nhuận ước tính	예상 수익				
+UI_20150401_001422	Silver	소지금				
+UI_20150401_001423	{memo X}{@st45tw}Vật phẩm hộp đề nghị	{@st45tw}봉헌함 물품 상세내용				
+UI_20150401_001424	{@st41}Bán tất cả	{@st41}일괄 판매				
+UI_20150401_001425	{@st43}Hộp đề nghị	{@st43}봉헌함				
+UI_20150401_001426	Đề nghị	봉헌하기				
+UI_20150401_001427	Giải quyết giao dịch	거래 정산				
+UI_20150401_001428	Số tiền cọn lại	예상 잔액				
+UI_20150401_001429	{@st45tw}Hộp đề nghị	{@st45tw}봉헌함				
+UI_20150401_001430	{memo X}{@st41}Tróng	{@st41}비우기				
+UI_20150401_001431	{@st43}Danh Sách người chơi ở khu vực{/}	{@st43}현재 존 유저 목록{/}				
+UI_20150401_001432	{@st59}Đóng giao diện GM{/}	{@st59}운영자 UI리스트를 닫습니다{/}				
+UI_20150401_001433	{memo X}{@st41}Mô tả tổ đội :	{@st41}파티 설명 :				
+UI_20150401_001434	{s20}Số thuốc độc {s28}{b}{#ff6600}%s	{s20}독의 양  {s28}{b}{#ff6600}%s				
+UI_20150401_001435	Nghiên liệu cho thuốc độc	독 제조용 재료 아이템				
+UI_20150401_001436	{@st41b}Chọn tất cả{/}	{@st41b}전체 선택{/}				
+UI_20150401_001437	{@st59}Kich chuột lần nửa để bỏ tất cả{/}	{@st59}한번 더 클릭시 전체 해제{/}				
+UI_20150401_001438	{@st41b}Chế Tạo{/}	{@st41b}제조{/}				
+UI_20150401_001439	{memo X}{@st59}Trộn hỗn hợp lần lượt và trộn{/}	{@st59}섞고 섞고 돌리고 섞고{/}				
+UI_20150401_001440	{@st41b}Thành tựu{/}	{@st41b}업적{/}				
+UI_20150401_001441	Màu tóc	헤어컬러				
+UI_20150401_001442	Danh hiệu có thể dùng	장착 가능 칭호				
+UI_20150401_001443	{memo X}{@st41b}Chế độ Giao diện Joystick{/}	{@st41b}조이스틱 UI 모드{/}				
+UI_20150401_001444	{@st41}{#ffffcc}Tên	{@st41}{#ffffcc}이름				
+UI_20150401_001445	{@st41}{#ffffcc}Giá	{@st41}{#ffffcc}가격				
+UI_20150401_001446	{@st41}{#ffffcc}Trạng thái	{@st41}{#ffffcc}상태				
+UI_20150401_001447	{@st41b}Hủy xem trước	{@st41b}미리보기 취소				
+UI_20150401_001448	{@st41}{#ffff00}iCoins của tôi: %s{/}	{@st41}{#ffff00}나의 NXP : %s{/}				
+UI_20150401_001449	Trang bị	착용중				
+UI_20150401_001450	{memo X}Mô tả : {#FFFF00}%s{/}	설명 : {#FFFF00}%s{/}				
+UI_20150401_001451	{memo X}Level trung bình : {#FFFF00}%s{/}	평균 레벨 : {#FFFF00}%s{/}				
+UI_20150401_001452	{memo X}Điều kiện	조건				
+UI_20150401_001453	Danh hiệu %s	칭호   %s				
+UI_20150401_001454	Thưởng %s	보상   %s				
+UI_20150401_001455	{memo X}{@st42}Số lượng	{@st42}갯수				
+UI_20150406_001456	{@st43}Căn cứ	{@st43}베이스 캠프				
+UI_20150406_001457	{@st42}Xây	{@st42}건설				
+UI_20150406_001458	{@st42}Hủy	{@st42}취소				
+UI_20150406_001459	{memo X}{@stc1}Thời gian Căn cứ	{@stc1}캠프 유지 시간				
+UI_20150406_001460	{@st41b}Căn cứ	{@st41b}베이스캠프				
+UI_20150406_001461	{memo X}{@st41b}Thời gian Căn cứ	{@st41b}캠프 유지 시간				
+UI_20150406_001462	{memo X}{@st42b}Thời gian Căn cứ được tăng lên khi nó được làm lại{nl} Cần %s silver.	{@st42b}갱신시 24시간 추가 캠프 유지되며{nl} %s실버가 소모됩니다.				
+UI_20150406_001463	{memo X}{@st41}Xóa Căn cứ	{@st41}캠프 해체				
+UI_20150406_001464	{memo X}{@st42}Xóa bàn	{@st42}테이블 해체				
+UI_20150406_001465	{@st59b}Grimoire{nl}{@st59s} Kỹ năng triệu hồi	{@st41}내 소환 스킬				
+UI_20150406_001467	{memo X}{@st41}Stat	{@st41}스텟				
+UI_20150406_001468	{@st41b}Họp tên dịch vụ{@st41b}봉헌함 이름				
+UI_20150406_001469	{@st41b}Chi tiết về các vật phẩm bán	{@st41b}봉헌함 물품 상세내용				
+UI_20150406_001470	{@st59}Đóng Buy-in Shop	{@st59}매입의뢰상점을 닫습니다				
+UI_20150406_001471	{@st59b}Mua ở Cửa hàng{nl}{@st59s} - giao dịch vật phẩm cho silver	{@st59b}매입의뢰상점{nl}{@st59s} - 내가 가진 물건을 실버로 교환할 수 있습니다				
+UI_20150406_001472	{@st41b}Vật phẩm yêu cầu của người chơi khác{/}	{@st41b}의뢰자 요청 아이템{/}				
+UI_20150406_001473	{@st41b}Vật phẩm sẵn sàng {/}	{@st41b}판매 등록 아이템{/}				
+UI_20150406_001474	{@st41b}Tổng doanh thu	{@st41b}총 수입				
+UI_20150406_001475	{@st41b}Bán	{@st41b}판매				
+UI_20150406_001476	{@st59}Bán vật phẩm(s) bạn đã thêm.{/}	{@st59}등록한 아이템을 판매합니다{/}				
+UI_20150406_001477	{@st59}Đóng kho{/}	{@st59}개인 창고를 닫습니다{/}				
+UI_20150406_001478	{memo X}{@st41b} %s silver sẽ bị tiêu khi cất và lấy đồ ra khỏi kho.{/}	{@st41b}창고에 물품을 보관하고 찾을시에 %s실버가 소모됩니다.{/}				
+UI_20150406_001479	{@st41b}Số lượng	{@st41b}갯수				
+UI_20150414_001480	{memo X}{@st42b}Thời gian Căn cứ được tăng lên khi nó được làm lại{nl} Cần %s silver.	{@st42b}갱신시 캠프 유지시간이 증가되며{nl} %s실버가 소모됩니다.				
+UI_20150414_001481	{memo X}{@st41b}Loại {@sti7}%s{/}	{@st41b}타입           {@sti7}%s{/}				
+UI_20150414_001482	{memo X}{@st41b}Điều khiển độ khó {@sti7}%s{/}	{@st41b}조작난이도 {@sti7}%s{/}				
+UI_20150414_001483	{@st59b} Vật phẩm {/}	{@st59b}  아이템  {/}				
+UI_20150414_001484	{@st59b} Quái vật {/}	{@st59b}  몬스터  {/}				
+UI_20150414_001485	{@st59b} Di chuyển bản đồ {/}	{@st59b}  맵이동  {/}				
+UI_20150414_001486	{@st59b} Lệnh chiến đấu {/}	{@st59b}  전투명령  {/}				
+UI_20150414_001487	{s26}{b}ea	{s26}{b}개				
+UI_20150414_001488	{s26}{b}Level	{s26}{b}레벨				
+UI_20150414_001489	{@st44}{s26}Level	{@st44}{s26}레벨				
+UI_20150414_001490	{@st59b}{s26}ea	{@st59b}{s26}마리				
+UI_20150414_001491	{@st41b}Nấu	{@st41b}조리				
+UI_20150414_001492	{@st41b}Đồ ăn	{@st41b}음식				
+UI_20150414_001493	{memo X}{@st42}Xóa bảng giải khát	{@st42}배식대 해체				
+UI_20150414_001494	{@st41b}Kỷ lục{/}	{@st41b}기록{/}				
+UI_20150414_001495	{memo X}{@st41}Mô Tả tổ đội	{@st41}파티 설명				
+UI_20150414_001496	{memo X}{@st41b}Bắt đầu{/}	{@st41b}입력{/}				
+UI_20150414_001497	Roasting Level %s	로스팅 레벨 %s				
+UI_20150428_001498	{@st43}Mua ở Cửa hàng{/}	{@st43}매입상점{/}				
+UI_20150428_001499	{@st41b}Đóng	{@st41b}마감하기				
+UI_20150428_001500	{@st41b}Báo lỗi	{@st41b}버그 제보				
+UI_20150428_001501	{@st59}Thông báo cho chúng tôi biết về lỗi và các vấn đề{/}	{@st59}문제가 있는 사항을 알립니다{/}				
+UI_20150428_001502	Khi bạn thông báo lỗi, lịch sử của bạn đến thời điểm đó sẽ được gửi đến máy chủ của chúng tôi.{nl}File replay sẽ được giúp đỡ nhiều trong việc giải quyết các lỗi. Bạn có muốn gửi nó?	버그를 제보하시면 현재까지 게임플레이 화면이 서버로 전송됩니다. 전송된 리플레이 파일은 버그 수정에 큰 도움이 됩니다. 전송하시겠습니까?				
+UI_20150428_001503	{@st41b}Mô tả lỗi :{/}	{@st41b}버그 내용 :{/}				
+UI_20150428_001504	{@st41b}Không bắt buộc mô tả , nhưng nó sẽ giúp chúng tôi rất nhiều trong việc phân tích các lỗi.	{@st41b}버그 내용은 필수 입력 사항이 아니지만 분석에 도움이 됩니다.				
+UI_20150428_001505	{@st41b}Gửi	{@st41b}전송				
+UI_20150428_001506	{@st42}{s14}{#ffff00}Khóa mục tiêu{/}	{@st42}{s14}{#ffff00}타겟 고정{/}				
+UI_20150428_001507	{@st59}Khóa mục tiêu của bạn bất kể khoảng cách hoặc hướng	{@st59}거리나 방향 전환에 관계없이 타겟을 고정합니다				
+UI_20150428_001508	Tìm thấy tổ đội	파티 조건 일치!				
+UI_20150428_001509	Phím tắt nghỉ ngơi Joypad	조이스틱 휴식 퀵슬롯				
+UI_20150428_001510	{@st41b}Chế độ nghỉ ngơi{@st41b}휴식모드				
+UI_20150428_001511	Hướng dẫn Joypad	조이패드 튜토리얼				
+UI_20150428_001512	{memo X}{@st59}Đóng hướng dẫn joypad(M){/}	{@st59}조이패드 설명을 닫습니다.(M){/}				
+UI_20150428_001513	Hướng dẫn bàn phím	키보드 튜토리얼				
+UI_20150428_001514	{@st44}Đăng xuất{/}	{@st44}로그아웃{/}				
+UI_20150428_001515	{memo X}{@st41b}Thoát trợ giúp(cần %s iCoin){/}	{@st41b}헬퍼 남기기(NXP %s개 필요){/}				
+UI_20150428_001516	{memo X}Giá thêm khe : {#ff9933}%s{/}{nl}Giá xóa Gem : {#ff9933}%s{/}	소켓 추가 비용 : {#ff9933}%s{/}{nl}젬 제거 비용 : {#ff9933}%s{/}				
+UI_20150428_001517	{memo X}{@st41b}Tháo Gem	{@st41b}젬 제거				
+UI_20150428_001518	{@st42}{s14}{#ffff00}Chế độ giao diện{/}	{@st42}{s14}{#ffff00}UI 모드{/}				
+UI_20150428_001519	{@st59}Dùng bàn phím hoặc joypad điều khiển giao diện	{@st59}키보드나 조이패드를 사용해서 UI를 조작합니다				
+UI_20150428_001520	{memo X}Tìm tổ đội 	파티원 찾기 기능 사용				
+UI_20150428_001521	{memo X}Khi người chơi khác đáp ứng các tiêu chí mà bạn thiết lập, thông báo [ghép tổ đội!] sẽ được hiển thị trên màn hình của bạn.	찾기 기능을 사용하는 캐릭터 중 조건에 맞는 캐릭터를{nl}만난다면 [파티 조건 일치!] 문구가 표시 됩니다.				
+UI_20150428_001522	{memo X}{@st41}Phong cách chơi{/}	{@st41}플레이 스타일{/}				
+UI_20150428_001523	Nhiệm Vụ	퀘스트 진행				
+UI_20150428_001524	Săn Bắn	사냥 중심				
+UI_20150428_001525	Sự Kiện	이벤트 진행				
+UI_20150428_001526	{memo X}{@st41}Lvl hơn/kém{/}	{@st41}레벨 차이{/}				
+UI_20150428_001527	{memo X}Không liên quan	관계없음  /				
+UI_20150428_001528	{memo X}{@st41}Class mà bạn muốn{/}	{@st41}원하는 클래스 계열{/}				
+UI_20150428_001529	{@st41b}Thoát tổ đội	{@st41b}파티 탈퇴				
+UI_20150428_001530	{memo X}{@st59}Tìm bằng mô tả tổ đội{/}	{@st59}파티 설명으로 검색합니다{/}				
+UI_20150428_001531	{s18}{ol}{gr gradation1}Nội quy giúp đỡ{/}	{s18}{ol}{gr gradation1}헬퍼 규칙{/}				
+UI_20150428_001532	{@st59}Tiền hành chế tạo{/}	{@st59}제조를 실행합니다.{/}				
+UI_20150428_001533	{memo X}{@st45ty}Màu tóc	{@st45ty}헤어컬러				
+UI_20150428_001534	{memo X}{@st45ty}Danh hiệu có thể dùng	{@st45ty}장착 가능 칭호				
+UI_20150428_001535	{@st41_yellow}Giúp đỡ kỹ năng	{@st41_yellow}헬퍼 스킬				
+UI_20150428_001536	{memo X}{@st41b}Hiển thị tên nhân vật khác{/}	{@st41b}다른 캐릭터 이름 표시{/}				
+UI_20150428_001537	{@st43}Chế độ điều khiển{/}	{@st43}UI 모드{/}				
+UI_20150428_001538	{memo X}{@st41b}Tự động{/}	{@st41b}자동{/}				
+UI_20150428_001539	{memo X}{@st41b}Joypad{/}	{@st41b}조이패드{/}				
+UI_20150428_001540	{memo X}{@st41b}Bàn Phím{/}	{@st41b}키보드{/}				
+UI_20150428_001541	{memo X}Joypad	조이패드				
+UI_20150428_001542	{@st59}Thông tin Joypad{/}	{@st59}조이패드 안내{/}				
+UI_20150428_001543	{memo X}Bàn Phím	키보드				
+UI_20150428_001544	{@st59}Thông tin bàn phím{/}	{@st59}키보드 안내{/}				
+UI_20150428_001545	{@st43}Cài đặt đồ họa{/}	{@st43}그래픽 설정{/}				
+UI_20150428_001546	{@st43}Hiệu Suất{/}	{@st43}성능 조정{/}				
+UI_20150428_001547	{memo X}{@st41b}Chế độ thấp{/}	{@st41b}저사양모드{/}				
+UI_20150428_001548	{memo X}{@st41b}Tự động chỉnh{/}	{@st41b}자동조정{/}				
+UI_20150428_001549	{memo X}{@st41b}Không dùng{/}	{@st41b}사용안함{/}				
+UI_20150428_001550	Hỏi đáp	게임faq				
+UI_20150428_001551	Người chơi : (%s/%s)	인원 : (%s/%s)				
+UI_20150428_001552	Ít nhất Lv. 100 : (%s/%s)	100레벨 이상 : (%s/%s)				
+UI_20150511_001553	{memo X}{@st41}Link mời tổ đội	{@st41}파티초대 링크걸기				
+UI_20150714_001554	{@st66b}Vật phẩm bán : ×%s / vật phẩm chưa bán : ×%s{/}	{@st66b}낙찰물품 : %s개 / 유찰물품 : %s개{/}				
+UI_20150714_001555	{@st41b}Lịch sử giao dịch	{@st41b}거래 기록				
+UI_20150714_001556	{@st41b}Loại bỏ cơ sở Căn cứ	{@st41b}캠프 해체				
+UI_20150714_001557	Thi đấu thẻ bài	카드대전				
+UI_20150714_001558	{@st64}%s Thắng(s) {/}	{@st64}%s승{/}				
+UI_20150714_001559	Chọn thẻ bài	카드 결정				
+UI_20150714_001560	Mục lục hành trình:{#ffff00} %s{/} ({#ffff00}Hạng #%s{/})	모험지수 {#ffff00}%s{/} ({#ffff00}%s{/}위)				
+UI_20150714_001561	{@st66b}Thích!	{@st66b}좋아요!				
+UI_20150714_001562	{memo X}Tôi thích nhân vật này {#ffff00}%s{/}	이 캐릭터가 좋아요 {#ffff00}%s{/}				
+UI_20150714_001563	{@st41b}Xóa bảng giải khát	{@st41b}배식대 해체				
+UI_20150714_001564	{memo X}{@st42}Kỹ năng triệu hồi của tôi	{@st42}내 소환 스킬				
+UI_20150714_001565	{@st42}Stat	{@st42}스텟				
+UI_20150714_001566	{memo X}{@st42}Vị trí hiên tại: %s{/}	{@st42}현재 위치 : %s{/}				
+UI_20150714_001567	{@st59b}Thiết bị {nl}{@st59s} - Kiểu tóc / Trang phục: Thiết bị để thay đổi bề ngoài của  nhân vật. {nl} - Vũ khí: Có thể trang bị vũ khí một tay hoặc hai tay {nl} (Vũ khí phụ / Khiên chắn có thể được trang bị với một vũ khí một tay) {nl} - Áo Giáp: Áo, quần, găng tay, Giày dép. {nl} - Phụ Kiện: Có thể mang 1 dây chuyền và 2 vòng tay. {nl} {/}	{@st59b}착용장비{nl}{@st59s} - 헤어/코스튬 : 외형 변경 가능 아이템 착용{nl} - 무기 : 한손 장비 및 양손 장비 착용 가능{nl}   (한손 장비 착용시 서브웨폰/방패 착용 가능 ){nl} - 방어구 : 상의, 하의, 장갑, 신발 착용{nl} - 악세서리 : 목걸이 1개, 팔찌 2개 착용{nl}   (팔찌2는 Alt키로 비교해 보기/장착 가능){/}				
+UI_20150714_001568	{@st43}Mở %s Cửa hàng {/}	{@st43}%s 상점 개설{/}				
+UI_20150714_001569	{@st41b}Roasting{/}	{@st41b}로스팅{/}				
+UI_20150714_001570	{@st66}Chọn tất cả	{@st66}전체 선택				
+UI_20150714_001571	{@st43}Tạo mũi tên{/}	{@st43}화살제작{/}				
+UI_20150714_001572	{@st59}Tắt giao diện{/}	{@st59} UI를 닫습니다{/}				
+UI_20150714_001573	{@st66b}Kiểm tra{/}	{@st66b}확인{/}				
+UI_20150714_001574	{@st66b}Rời khỏi trợ giúp(Cần %s iCoin){/}	{@st66b}헬퍼 남기기(NXP %s개 필요){/}				
+UI_20150714_001575	Giá thêm socket : {#000000}%s{/} {nl}Gem Extract Price : {#000000}%s{/}	소켓 추가 비용 : {#000000}%s{/} {nl}젬 추출 비용 : {#000000}%s{/}				
+UI_20150714_001576	{ds}Cấp đề nghị : %s	{ds}권장 레벨 : %s				
+UI_20150714_001577	Khám phá : 50.0%	탐사율 : 50.0%				
+UI_20150714_001578	{@st45tw}[%s% explored]{/}	{@st45tw}[탐사율 %s%]{/}				
+UI_20150714_001579	>>Hiện thêm thông tin...	>>더 보기..				
+UI_20150714_001580	%s (Rank %s)	%s (%s 랭크)				
+UI_20150714_001581	Tên nghề	직업이름				
+UI_20150714_001582	{@st41b}Mời	{@st41b}초대				
+UI_20150714_001583	{@st41}Nếu bạn dùng tay cầm điều khiển hoặc chuột để điều khiển, bạn có thể chọn cái này trong thiết lập trò chơi.{nl}	{@st41}조이패드나 마우스 조작을 원할 경우, 시스템 메뉴의 게임 설정에서 선택할 수 있습니다.{/}				
+UI_20150714_001584	{memo X}Khi người chơi khác đáp ứng các tiêu chí mà bạn thiết lập, thông báo [Party Match!] sẽ được hiển thị trên màn hình của bạn.	조건이 일치하는 캐릭터를 만난다면 [파티 조건 일치!] 문구가 표시 됩니다.{nl}또한 파티원을 구하는 다른 파티에 자주 추천됩니다.				
+UI_20150714_001585	{memo X}{@st42}Phong cách chơi{/}	{@st42}플레이 스타일{/}				
+UI_20150714_001586	{@st42}Lvl hơn/kém{/}	{@st42}레벨 차이{/}				
+UI_20150714_001587	Any	관계없음				
+UI_20150714_001588	{memo X}{@st42}Class{/}	{@st42}원하는 클래스 계열{/}				
+UI_20150714_001589	{memo X}{@st42}Tên tổ đội : %s{/}	{@st42}파티명 : %s{/}				
+UI_20150714_001590	{memo X}{@st42}Mô tả{/}	{@st42}파티 설명{/}				
+UI_20150714_001591	{memo X}{@st42}Bắt Đầu{/}	{@st42}입력{/}				
+UI_20150714_001592	{@st42}Ưu tiên vật phẩm	{@st42}아이템 분배 규칙				
+UI_20150714_001593	{@st42}Ưu tiên Exp	{@st42}경험치 분배 규칙				
+UI_20150714_001594	EXP	cá nhân 각자얻기				
+UI_20150714_001595	Chia đều EXP	균등분배				
+UI_20150714_001596	Bởi Level	레벨차등				
+UI_20150714_001597	{@st42}Chia sẽ nhiệm vụ	{@st42}퀘스트 공유				
+UI_20150714_001598	Tắt	사용안함				
+UI_20150714_001599	{@st42}Tổ đội công khai{/}	{@st42}공개 파티 목록에 등록{/}				
+UI_20150714_001600	{memo X}Level	희망 레벨				
+UI_20150714_001601	{@st42}Dùng 'giới thiệu tổ đội'{/}	{@st42}파티원 추천 기능 사용{/}				
+UI_20150714_001602	Bởi khoản cách	거리에 의해				
+UI_20150714_001603	Bởi Class	직업에 의해				
+UI_20150714_001604	Bởi Level	레벨에 의해				
+UI_20150714_001605	Bởi Nhiệm vụ	진행 퀘스트에 의해				
+UI_20150714_001606	Bởi Thân thiết	친분에 의해				
+UI_20150714_001607	{memo X}{@st42}Chia sẽ link mời tổ đội	{@st42}파티초대 링크걸기				
+UI_20150714_001608	>>Xem trước tổ đội...	>>파티 보기..				
+UI_20150714_001609	Tên đội : %s	파티이름 : %s				
+UI_20150714_001610	Mô tả tổ đội : %s	파티소개 : %s				
+UI_20150714_001611	Thời gian tổ chức : %s ago	결성시간 : %s 전				
+UI_20150714_001612	Thành viên tổ đội : %s/5	인원구성 : %s/5				
+UI_20150714_001613	Tham Gia	가입				
+UI_20150714_001614	{@st59}Tìm kiếm tên tổ đội hoặc hoặc mô tả{/}	{@st59}파티 이름 및 설명으로 검색합니다{/}				
+UI_20150714_001615	Thông tin chi tiết giúp đơn giản 심플 도움말내용				
+UI_20150714_001616	{@st43}Hộp tin nhắn	{@st43}메세지함				
+UI_20150714_001617	{@st41b}Tất Cả	{@st41b}전체				
+UI_20150714_001618	{@st41b}Tin nhắn chưa đọc	{@st41b}안읽은 메세지함				
+UI_20150714_001619	{memo X}{@st43}{s22}Chọn một nhân vật để nhận vậ phẩm.{/}	{@st43}{s22}아이템을 수령할 캐릭터를 선택해주세요.{/}				
+UI_20150714_001620	{@st41b}Cường hóa	{@st41b}강화				
+UI_20150714_001621	{@st66}Vật phẩm cần để sửa chữa	{@st66}수리 필요 아이템 목록				
+UI_20150714_001622	{@st43}Simoni	{@st43}시모니				
+UI_20150714_001623	{@st59}Tăng kỹ năng{/}	{@st59}스킬을 올려주세요{/}				
+UI_20150714_001624	{@st59}Đóng Kỹ năng & Thuộc Tính{/}	{@st59}스킬과 특성을 닫습니다{/}				
+UI_20150714_001625	{@st43}Kỹ năng & Thuộc Tính{/}	{@st43}스킬과 특성{/}				
+UI_20150714_001626	Điểm Chỉ Số còn lại {nl}{@st46}%s	남은 스테이터스 포인트 {nl}{@st46}%s				
+UI_20150714_001627	Người Thích : %s	내가 받은 좋아요! : %s개				
+UI_20150714_001628	{memo X}{@st66b}Hiển thị số EXP nhận được {/}	{@st66b}경험치 획득량 표기{/}				
+UI_20150714_001629	{@st66b}Hiển thị tên nhân vật{/}	{@st66b}캐릭터 이름 보기{/}				
+UI_20150714_001630	{@st66b}Hiển thị tên gia đình {/}	{@st66b}팀 이름만 표시{/}				
+UI_20150714_001631	{@st66b}Hiển thị tên người chơi khác {/}	{@st66b}다른 캐릭터 이름 표시{/}				
+UI_20150714_001632	{@st66b}Tự Động{/}	{@st66b}자동{/}				
+UI_20150714_001633	{@st66b}Controller{/}	{@st66b}조이패드{/}				
+UI_20150714_001634	{@st66b}Bàn phím{/}	{@st66b}키보드{/}				
+UI_20150714_001635	{@st66b}Chuột	{@st66b}마우스				
+UI_20150714_001636	{@st66b}Full Screen{/}	{@st66b}전체 화면{/}				
+UI_20150714_001637	{@st66b}Chế độ Cửa sổ {/}	{@st66b}창모드{/}				
+UI_20150714_001638	{@st66b}Âm thanh Hiệu ứng (%s){/}	{@st66b}효과음 크기 (%s){/}				
+UI_20150714_001639	{@st66b}Âm thanh nhạc nền  (%s){/}	{@st66b}음악 크기 (%s){/}				
+UI_20150714_001640	{@st66b}Âm thanh (%s){/}	{@st66b}사운드 전체 크기 (%s){/}				
+UI_20150714_001641	{@st66b}Chế độ thấp{/}	{@st66b}저사양모드{/}				
+UI_20150714_001642	{@st66b}Tự động cài đặt{/}	{@st66b}자동조정{/}				
+UI_20150714_001643	{@st66b}Không Dùng{/}	{@st66b}사용안함{/}				
+UI_20150714_001644	{@st66b}Áp dụng Bloom{/}	{@st66b}블룸 적용{/}				
+UI_20150714_001645	{@st66b}Áp dụng Vignette{/}	{@st66b}비넷팅 적용{/}				
+UI_20150714_001646	{@st66b}Áp dụng FXAA{/}	{@st66b}FXAA 적용{/}				
+UI_20150714_001647	{@st66b}Áp dụng chói sáng{/}	{@st66b}GLOW 적용{/}				
+UI_20150714_001648	{@st66b}Áp dụng chiều sâu{/}	{@st66b}Depth 적용{/}				
+UI_20150714_001649	{@st66b}Áp dụng Soft Particle{/}	{@st66b}SoftParticle 적용{/}				
+UI_20150714_001650	{@st66b}Áp dụng đồ họa cao{/}	{@st66b}고사양 텍스쳐 적용{/}				
+UI_20150714_001651	{@st66b}Mở Vertical Sync{/}	{@st66b}수직 동기화 켜기{/}				
+UI_20150714_001652	{@st66b}Tắt Vertical Sync{/}	{@st66b}수직 동기화 끄기{/}				
+UI_20150714_001653	{@st66b} %s silver sẽ bị tiêu khi cất và lấy đồ ra khỏi kho.{/}	{@st66b}창고에 물품을 보관하고 찾을시에 %s실버가 소모됩니다.{/}				
+UI_20150714_001654	%s thích tôi	%s가 나를 좋아합니다				
+UI_20150714_001655	{@st41}Theo dõi	{@st41}관전하기				
+UI_20150714_001656	{@st66b}Thoát chế độ theo dõi	{@st66b}관전 종료				
+UI_20150714_001657	{memo X}Tim thấy trận đấu. Bạn có muốn tham gia?	게임을 찾았습니다. 참가하시겠습니까?				
+UI_20150714_001658	{memo X}{@st41}Tham gia	{@st41}참가				
+UI_20150714_001659	{@st41}Từ chối	{@st41}거절				
+UI_20150714_001660	Kết thúc	경기 종료				
+UI_20150714_001661	Chết	데스				
+UI_20150714_001662	Sát thướng	피해량				
+UI_20150714_001663	{@st41}Trở về khu vực	{@st41}존으로 돌아가기				
+UI_20150714_001664	{@st41b}Trở về khu vực này trong %s giây...{/}	{@st41b}%s초 후 존으로 이동합니다...{/}				
+UI_20150714_001665	{@st59}Mở hộp tin nhắn{/}	{@st59}메세지함을 엽니다{/}				
+UI_20150714_001666	{@st42}Đổi doanh Căn cứ{/}	{@st42}숙소 변경{/}				
+UI_20150714_001667	{@st42}Cài đặt doanh Căn cứ{/}	{@st42}숙소 설정{/}				
+UI_20150714_001668	{@st65}%s Điểm{/}	{@st65}%s 점{/}				
+UI_20150714_001669	{@st65}×%s{/}	{@st65}%s 개{/}				
+UI_20150714_001670	{@st65}% Điểm{/}	{@st65}%s점{/}				
+UI_20150714_001671	{@st65}×%s{/}	{@st65}%s개{/}				
+UI_20150714_001672	Hình ảnh mô tả	사진에 대한 설명				
+UI_20150714_001673	{#000000}%s giây	{#000000}%s 초				
+UI_20150714_001674	{#000000}%s trang bị	{#000000}%s 장착				
+UI_20150714_001675	Tên tổ đội : {#2c140c}%s{/}	파티명 : {#2c140c}%s{/}				
+UI_20150714_001676	Giới thiệu : {#2c140c}%s{/}	설명 : {#2c140c}%s{/}				
+UI_20150714_001677	Cấp Trung binh : {#2c140c}%s{/}	평균 레벨 :  {#2c140c}%s{/}				
+UI_20150714_001678	Đang tìm  : {#2c140c}%s{/}	찾는 파티원 :  {#2c140c}%s{/}				
+UI_20150714_001679	Chia sẽ nhiệm vụ : {#2c140c}%s{/}	퀘스트 공유 :  {#2c140c}%s{/}				
+UI_20150714_001680	Ưu tiên exp : {#2c140c}%s{/}	경험치 분배규칙 :  {#2c140c}%s{/}				
+UI_20150714_001681	Ưu tiên vật phẩm : {#2c140c}%s{/}	아이템 분배규칙 :  {#2c140c}%s{/}				
+UI_20150714_001682	Bạn đã có một thời gian tốt với tổ đội này?	파티는 즐거우셨나요?				
+UI_20150714_001683	{@st42} Kiếm được %s by %s	{@st42}%s님이 %s(을)를 드셨습니다				
+UI_20150714_001684	{@st42} Cường Hóa %s by %s	{@st42}%s님이 %s(을)를 강화하셨습니다.				
+UI_20150714_001685	Ghi Chú :%s	메모 :%s				
+UI_20150714_001686	{@st59}Thêm các nguyên liệu ở ô vật phẩm này{/}	{@st59}재료 아이템을 슬롯에 추가합니다.{/}				
+UI_20150714_001687	{@st66b}Giá : %s{/}	{@st66b}가격 : %s{/}				
+UI_20150714_001688	Lời chào nhân vật	캐릭터 인사말				
+UI_20150714_001689	Cửa hàng buy-in	매입의뢰상점				
+UI_20150714_001690	×%s	%s 개				
+UI_20150714_001691	{@41b}Tiêu Chuẩn	{@41b}조건				
+UI_20150714_001692	{memo X}{@st41}Xóa	{@st41}삭제				
+UI_20150714_001693	{@st41}Làm Mới	{@st41}새로 고침				
+UI_20150717_001694	{memo X}{#ffff00}%s{/} Người chơi như nhân vật này 이 플레이어가 좋아요 {#ffff00}%s{/}				
+UI_20150717_001695	{@st41b}{s56}Trò chơi này {#0066FF}	{@st41b}{s56}이 게임은 {#0066FF}				
+UI_20150717_001696	Rated T.	12세 이용가				
+UI_20150717_001697	{s40} {nl}Chơi Tree Of Savior nhiều giờ chơi có thể ảnh hưởng đến sức khỏe của bạn.{/}	{#FFFFFF}입니다.{nl}{s40} {nl}장시간의 게임 이용은 건강을 해칠 수 있습니다.{/}				
+UI_20150717_001698	{@st66b}Bắt Đầu	{@st66b}입력				
+UI_20150717_001699	{@st42}Thông tin triệu hồi của tôi	{@st42}내 소환수 정보				
+UI_20150717_001700	Nhân vật của bạn chậm lại khi bạn không có đủ{@st59}STA{/}	{@st59}STA{nl}{@st59s}스태미나가 부족하면 이동이 느려집니다{/}				
+UI_20150717_001701	{@st59}Sắp xếp túi đồ.{/}	{@st59}인벤토리를 정렬합니다{/}				
+UI_20150717_001702	{memo X}Sắp xếp	정리				
+UI_20150717_001703	{@st59}Đóng thông tin điều khiển bàn phím.{/}	{@st59}조이패드 설명을 닫습니다.{/}				
+UI_20150717_001704	{@st59}Đóng thông tin điều khiển bàn phím.{/}	{@st59}키보드 설명을 닫습니다.{/}				
+UI_20150717_001705	Hướng dẫn chuột	마우스 튜토리얼				
+UI_20150717_001706	{@st59}Đóng thông tin điều khiển chuột.{/}	{@st59}마우스 설명을 닫습니다.{/}				
+UI_20150717_001707	Tấn công : %s	공격력 : %s				
+UI_20150717_001708  Phòng Thủ : %s	방어력 : %s				
+UI_20150717_001709	STR : %s	힘 : %s				
+UI_20150717_001710	CON : %s	체력 : %s				
+UI_20150717_001711	INT : %s	지능 : %s				
+UI_20150717_001712	DEX : %s	민첩 : %s				
+UI_20150717_001713	SPR : %s	정신 : %s				
+UI_20150717_001714	{memo X}{@st42b}Swordsman có thể trượt khi dùng phím mũi tên 2 lần.{/}	{@st42b}소드맨 계열은 방향을 빠르게 두번 입력하여 질주할 수 있습니다{/}				
+UI_20150717_001715	{@st42}Tên tổ đội & Giới thiệu{/}	{@st42}파티명과 설명{/}				
+UI_20150717_001716	{@st42}Thêm thẻ mời tổ đội	{@st42}파티 초대 태그 삽입				
+UI_20150717_001717	{@st41b}Danh sách tổ đội công cộng{/}	{@st41b}공개 파티 목록{/}				
+UI_20150717_001718	{memo X}{@st41b}Danh sách nhân vật đề nghị{/}	{@st41b}추천 캐릭터 목록{/}				
+UI_20150717_001719	{@st41b}Nhận dề nghị	{@st41b}추천 받기				
+UI_20150717_001720	Điều này chỉ có thể được sử dụng bởi chủ tổ đội.	파티 리더만 사용 가능한 기능입니다.				
+UI_20150717_001721	Bạn phải sử dụng chức năng đề nghị thành viên tổ đội.	파티원 추천 기능을 사용해야 합니다.				
+UI_20150717_001722	{@st66b}Tên nhiệm vụ class{/}	{@st66b}퀘스트 클래스 네임{/}				
+UI_20150717_001723	{@st59b}Cửa Hàng{nl}{@st59s} - Nếu bạn muốn mua số lượng lớn thì kích chuột phải và ghi vào số mà bạn muốn.{nl} - Kich chuột phải 2 lần vào vật phẩm bạn muốn bán số lớn.{/}	{@st59b}상점{nl}{@st59s} - 아이템을 여러 개 판매/구매하려면 Shift + 우클릭 후 갯수 입력{nl} - 아이템을 전량 판매하려면 마우스 더블 우클릭으로 이용{/}				
+UI_20150717_001724	{@st59}Thông tin chuột{/}	{@st59}마우스 안내{/}				
+UI_20150717_001725	{@st66b}Sắp xếp	{@st66b}정렬				
+UI_20150717_001726	{@st59}Sắp xếp vật phẩm của bạn.{/}	{@st59}아이템을 정렬합니다.{/}				
+UI_20150717_001727	{@st59}Trang bị vu khí ở ô này{nl}Dùng Alt+z để đổi vuũ khí{/}	{@st59}슬롯에 무기 장착{nl}Alt+Z로 무기 전환{/}				
+UI_20150717_001728	Theo dõi người chơi khác	다른사람 시점으로 관전하기				
+UI_20150717_001729	{@st41}Chiến Trường	{@st41}배틀 필드				
+UI_20150717_001730	Kết Quả	결과				
+UI_20150717_001731	{@st41}Di chuyển ngay lập tức 	{@st41}바로 이동				
+UI_20150717_001732	{@st41b}Tên gia đình đại diện cho tất cả nhân vật của bạn.{nl}Nó là cái tên được sử dụng phổ biến trong trò chơi.{nl}- Tên gia đình của bạn có thể được thay đổi sau này.{/}	{@st66b} 팀 이름은 모든 캐릭터를 대표하는 이름입니다.{nl}자유롭게 바꿀 수 있는 팀 이름은 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{/}				
+UI_20150729_001733	{@st42}Chỉ hiển thị các thuộc tính có thể học.{/}	{@st42}학습 가능한 특성만 표시{/}				
+UI_20150729_001734	Số chân	다리갯수				
+UI_20150729_001735	Chiều cao	키				
+UI_20150729_001736	Trọng lượng	몸무게				
+UI_20150729_001737	{@st43}Gem Roasting{/}	{@st43}젬 로스팅{/}	UI_20150323_001331	{memo X}{@st43}Gem Roasting{/}	{@st43}젬로스팅{/}	
+UI_20150729_001738	{@st59b}Chế tạo{nl}{@st59s} - Vật phẩm có thể chế tạo bằng công thức.{nl} - Đặt công thức và nguyên liệu cần thiết trong các khe để bắt đầu việc tạo vật phẩm. {nl} - Bạn có thể đính kèm một tên đặc biệt và bản ghi nhớ cho vật phẩm của bạn.{/}	{@st59b}아이템 제작{nl}{@st59s} - 레시피 아이템을 입수하면 해당하는 아이템 제작 가능{nl} - 레시피와 재료를 슬롯에 넣은 후 아이템 제작 실행{nl} - 제작하는 아이템에 이름과 메모 기입 가능{/}				
+UI_20150729_001739	{@st59}Đóng chế tạo mũi tên{/}	{@st59}화살제작을 닫습니다.{/}				
+UI_20150729_001740	{memo X}Mảnh vở cần: Quái dị %s / Thú %s / Cây cỏ %s	필요 파편 : 변이 %s개 / 야수 %s개 / 식물 %s개	UI_20150317_000417	{memo X}Mảnh vở cần : %s	필요 파편 : %s	
+UI_20150729_001741	{@st42b}Class Swordsman có thể chạy nhanh bằng cách nhấn phím di chuyển 2 lần.{/}	{@st42b}전사 계열은 방향을 빠르게 두번 입력하여 질주할 수 있습니다{/}	UI_20150717_001714	{memo X}{@st42b}Swordsman có thể trượt tới bằng cách nhấn phím mũi tên 2 lần.{/}	{@st42b}소드맨 계열은 방향을 빠르게 두번 입력하여 질주할 수 있습니다{/}	
+UI_20150729_001742	{@st41}Cài đặt tổ đội	{@st41}파티 설정				
+UI_20150729_001743	{@st41}Cài đặt chiêu mộ tổ đội	{@st41}파티 모집 설정				
+UI_20150729_001744	{@st42}Tìm thành viên tổ đội{/}	{@st42}파티원 찾기 기능 사용{/}				
+UI_20150729_001745	Khi người chơi khác đáp ứng các tiêu chí mà bạn thiết lập, thông báo [Party Match!] sẽ được hiển thị trên màn hình của bạn.	조건이 일치하는 플레이어를 만난다면 [파티 조건 일치!] 문구가 표시 됩니다.				
+UI_20150729_001746	{@st41b}Danh sách người chơi tiến cử{/}	{@st41b}추천 플레이어 목록{/}	UI_20150717_001718	{memo X}{@st41b}Danh sách người chơi tiến cử{/}	{@st41b}추천 캐릭터 목록{/}	
+UI_20150729_001747	{@st41}Thông tin thuộc tính	{@st41}특성 및 정보				
+UI_20150729_001748	{@st59}Hủy cường hóa{/}	{@st59}강화를 취소합니다{/}				
+UI_20150729_001749	{@st59b}Cường hóa Gem/Thẻ Bài {nl}{@st59s} - Chọn đá quý hoặc thẻ từ kho của bạn để cường hóa nó{nl} - Tất cả các vật phẩm ngoài nhiệm vụ có thể được sử dụng làm nguyên liệu để cường hóa đá quý. {nl} (Hiệu quả nhất khi sử dụng đá quý){nl} - Thẻ bài chỉ có thể cường hóa khi dùng thẻ bài khác.{/}	{@st59b}젬/카드 강화{nl}{@st59s} - 강화할 젬 또는 카드를 인벤토리에서 선택하여 등록{nl} - 퀘스트 아이템을 제외한 모든 아이템을 젬 강화 재료로 사용 가능{nl}   (젬을 재료로 사용했을 때 효율이 가장 높음){nl} - 카드 강화는 다른 카드들로만 재료로 사용 가능{/}				
+UI_20150729_001750	{#000000}{s22}Đang chờ vào máy chủ	{#000000}{s22}서버 입장 대기중				
+UI_20150729_001751	{#000000}{s22}Máy chủ đã đầy. Đang xếp hàng đăng ký.	{#000000}{s22}서버 인원이 가득 차 입장 대기 중 입니다.				
+UI_20150729_001752	{#000000}{s22}Hạng : %s	{#000000}{s22}현재 순위 : %s				
+UI_20150729_001753	{@st43}Đấu tổ đội	{@st43}팀 배틀 리그				
+UI_20150729_001754	{@st59}Đóng đấu tổ đội	{@st59}팀 배틀 리그를 닫습니다.				
+UI_20150729_001755	{@st42}Lịch thi đấu tổ đội	{@st42}팀 배틀 리그 일정				
+UI_20150729_001756	{@st43}Xếp hạng thi đấu tổ đội	{@st43}팀 배틀 리그 랭킹	UI_20150317_000804	{memo X}{@st43}Battlefield Rankings	{@st43}배틀 필드 랭킹	
+UI_20150729_001757	{@st59}Đóng bảng xếp hạng	{@st59}팀 배틀 리그 랭킹을 닫습니다.	UI_20150317_000805	{memo X}{@st59}Close Battlefield rankings	{@st59}배틀 필드랭킹을 닫습니다.	
+UI_20150729_001758	Tên Đội	팀 이름	UI_20150317_000950	{memo X}{@St42_b}{s18}{#f5c384}Tên Đội{/}	{@st42_b}{s18}{#f5c384}팀 이름{/}	
+UI_20150729_001759	{@st41b}Tên kỹ năng	{@st41b}스킬이름				
+UI_20150729_001760	{@st59}Chấp nhận nhiệm vụ tổ đội{/}	{@st59}파티 미션 진행을 수락합니다{/}	UI_20150317_001278	{@st59}Tham gia nhiệm vụ tổ đội{/}	{@st59}파티 퀘스트 진행을 수락합니다{/}	
+UI_20150729_001761	{@st59}Xóa vé này{/}	{@st59}해당 티켓을 삭제합니다.{/}				
+UI_20150729_001762	Điểm	점수				
+UI_20150729_001763	Tham gia thi đấu đội	팀 배틀 리그 참여				
+UI_20150730_001764	{memo X}{@st56}Hạng của tôi	{@st56}내 랭킹				
+UI_20150730_001765	{memo X}{@st56}Hạng giết	{@st56}킬 랭킹				
+UI_20150730_001766	{memo X}{@st56}Hạng sát thương	{@st56}데미지 랭킹				
+UI_20150803_001767	Tổng Hợp: /s chat{nl}La Hét: /y chat {nl}Đội: /p chat{nl} Nói nhỏ: /w TeamName Chat	일반 : /s 할말{nl}외침 : /y 할말{nl}파티 : /p 할말{nl}귓속말 : /w 팀이름 할말	UI_20150317_000093	{memo X}Tổng Hợp: /s chat {nl} La Hét: /y chat {nl} Đội: /p chat{nl} Whisper: /w character's username chat	일반 : /s 내용{nl}외침 : /y 내용{nl}파티 : /p 내용{nl}귓속말 : /w 캐릭명 내용	
+UI_20150803_001768	{@st66b}Rung Joypad{/}	{@st66b}조이패드 진동{/}				
+UI_20150803_001769	Một trận đấu đã được tìm thấy. Hãy đợi cho đến khi bạn có thể tham gia.	게임을 찾았습니다. 잠시 후 게임에 입장합니다.	UI_20150714_001657	{memo X}Found a game. Do you want to join?	게임을 찾았습니다. 참가하시겠습니까?	
+UI_20150804_001770	{@st43}{s18}Chọn nhân vật mà bạn muốn nhận được món hàng(s).{/}	{@st43}{s18}아이템을 수령할 캐릭터를 선택해주세요.{/}				
+UI_20150804_001771	Maximum Sockets : %s	최대 소켓 %s개	UI_20150317_001141	{memo X}Maximum Sockets : ×%s	최대 소캣 %s개	
+UI_20150807_001772	{@st41b}Chi tiết {img red_down_arrow 16 16}	{@st41b}상세 보기 {img red_down_arrow 16 16}				
+UI_20150807_001773	{memo X}	{@st41b}거래 정산 :{/}	UI_20150317_000632	{memo X}{@st41b}Giá{/}	{@st41b}거래 정산 ▶{/}	
+UI_20150807_001774	{memo X}	{@st41b}예상 잔액 :{/}	UI_20150317_000633	{memo X}{@st41b}Tiền còn lại{/}	{@st41b}예상 잔액 ▶{/}	
+UI_20150918_001775	Thời gian Căn cứ	캠프 유지 시간				
+UI_20150918_001776	Hiệu Ứng	효과				
+UI_20150918_001777	Thời gian Căn cứ được tăng lên khi nó được làm lại{nl} Cần %s silver.	갱신시 캠프 유지시간이 증가되며{nl} %s실버가 소모됩니다.				
+UI_20150918_001778	Nhà kho	개인 창고	UI_20150323_001310	{@st41b}Nhà kho	{@st41b}개인 창고	
+UI_20150918_001779	{@st41b}Loại : {@sti7}%s{/}	{@st41b}타입 : {@sti7}%s{/}				
+UI_20150918_001780	{@st41b}Độ khó : {@sti7}%s{/}	{@st41b}조작난이도 : {@sti7}%s{/}				
+UI_20150918_001781	{#ffff00}{ol}%s{/}{/} người thích nhân vật này	이 플레이어가 좋아요 {#ffff00}{ol}%s{/}	UI_20150717_001694	{memo X}{#ffff00}%s{/} người thích nhân vật này	이 플레이어가 좋아요 {#ffff00}%s{/}	
+UI_20150918_001782	{@st43}Phó bản	{@st43}인스턴스 던전				
+UI_20150918_001783	{@st41}Kiểm tra vị trí	{@st41}위치 확인				
+UI_20150918_001784	{#000000}Tên phó bản{/}	{#000000}이름{/}				
+UI_20150918_001785	{#000000}Cấp đăng ký{/}	{#000000}입장레벨{/}				
+UI_20150918_001786	{#000000}Lần đăng ký{/}	{#000000}입장 회수{/}				
+UI_20150918_001787	{#000000}Số lượng đăng ký sẽ thiết lập lại sau %s.{/}	{#000000}입장 횟수는 %s시에 초기화 됩니다.{/}				
+UI_20150918_001788	{img silver 20 20} Giá	{img silver 20 20} 받는 가격				
+UI_20150918_001789	Thông tin đội gần đây	주변 파티 정보				
+UI_20150918_001790	Mảnh vở cần: %s 	필요 파편 : %s개	UI_20150729_001740	{memo X}Mảnh vở cần: Quái dị %s / Thú %s / Cây %s	필요 파편 : 변이 %s개 / 야수 %s개 / 식물 %s개	
+UI_20150918_001791	{@st66b}Empty	{@st66b}비우기				
+UI_20150918_001792	{@st42}Show Nearby Parties{/}	{@st42}주변 파티 정보 표시{/}				
+UI_20150918_001793	Tình Bạn với {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}	{@sti9}%s{@st66b}과의 친밀도 : {@sti9}%s {@st66b}레벨{/}	UI_20150317_000480	{@sti9}%s{@st41b}Closeness : {@sti9}%s {@st41b}Level{/}	{@sti9}%s{@st41b}과의 친밀도 : {@sti9}%s {@st41b}레벨{/}	
+UI_20150918_001794	Tình Bạn	친밀도	UI_20150317_000483	{@st41b}Thân thiên{/}	{@st41b}친밀도{/}	
+UI_20150918_001795	{@st41b}Đã thu được vật liệu để chế tạo vật phẩm.	{@st41b}제작 아이템 재료 획득!				
+UI_20150918_001796	{@st66b}{s20}Bạn đã không còn {/}{s20}{#cc6600}{ol}khả năng để chiến đấu. {/}{@st66b}{s20}!{/}	{@st66b}{s20}당신은 {/}{s20}{#cc6600}{ol}전투 불능 {/}{@st66b}{s20}상태가 되었습니다!{/}	UI_20150317_000605	{@st41b}You have become {/}{s20}{#cc6600}{ol} incapable of combat{/}{@st41b}{/}	{@st41b}당신은 {/}{s20}{#cc6600}{ol}전투 불능 {/}{@st41b}상태가 되었습니다!{/}	
+UI_20150918_001797	{@st66b}Khởi động lại ở điểm hồi phục gần nhất{/}	{@st66b}가까운 부활지점에서 다시하기{/}	UI_20150317_000606	{@st41b}Hồi sinh ở điểm hồi phục gần nhất{/}	{@st41b}가까운 부활지점에서 다시하기{/}	
+UI_20150918_001798	{@st66b}Khởi động lại ở đây (requires %s iCoins){/}	{@st66b}제자리에서 다시하기(NXP %s개 필요){/}	UI_20150317_000607	{@st41b}Respawn here (requires %s iCoins) {/}	{@st41b}제자리에서 다시하기(NXP %s개 필요){/}	
+UI_20150918_001799	{@st66b}Trở lại khu vực{/}	{@st66b}필드로 복귀하기{/}	UI_20150317_000608	{@st41b}Return to field{/}	{@st41b}필드로 복귀하기{/}	
+UI_20150918_001800	{@st66b}Từ bỏ nhiệm vụ và thử lại{/}	{@st66b}퀘스트 포기 후 재시작하기{/}	UI_20150317_000609	{@st41b}Abandon quest and restart{/}	{@st41b}퀘스트 포기 후 재시작하기{/}	
+UI_20150918_001801	{@st66b}Thử Lại{/}	{@st66b}재도전{/}	UI_20150317_000610	{@st41b}Try again{/}	{@st41b}재도전{/}	
+UI_20150918_001802	{@st66b}Vật phẩm đã bán{/}	{@st66b}내가 판매한 아이템{/}	UI_20150317_000634	{@st41b}My Sold Items{/}	{@st41b}내가 판매한 아이템{/}	
+UI_20150918_001803	{@st53}Điểm xếp hạng : %s	{@st53}랭킹포인트 : %s				
+UI_20150918_001804	Tổng không giao dịch: %s	총 거래 불가: %s개				
+UI_20150918_001805	{@st42b}Đối Thoại{/}	{@st42b}대사 확인{/}				
+UI_20150918_001806	{@st66b}Cho tổ đội khác thức ăn{/}	{@st66b}파티원 외 음식 제공{/}				
+UI_20150918_001807	{@st41b}Thay đổi tiêu đề của bảng{@st41b}간판이름변경				
+UI_20150918_001808	{@sti9}Hạng Của Tôi	{@sti9}내 랭킹				
+UI_20150918_001809	{@sti9}Xếp hạng giết	{@sti9}킬 랭킹				
+UI_20150918_001810	{@sti9}Xếp Hạng sát thương	{@sti9}데미지 랭킹				
+UI_20151001_001811	{@st43}Thiết Lập Bàn Phím{/}	{@st43}키 설정{/}				
+UI_20151001_001812	{@st45tw2}Thể Loại	{@st45tw2}카테고리				
+UI_20151001_001813	Hành Động	액션				
+UI_20151001_001814	Khôi phục mặc định	기본값 복원			
+UI_20151016_001815	{@st59}vật phảm đã chọn sẽ bị khóa{/}
+UI_20151016_001816	{@st59}Bạn có thể thay đổi chủ đề Căn cứ và xem trước nó.
+UI_20151016_001817	%s Nhân vật{/}
+UI_20151016_001818	{@st42b}Xem trước
+UI_20151016_001819	{@st42b}Trở lại
+UI_20151016_001820	{@st42b}Mua
+UI_20151016_001821	{@st42b}Dùng
+UI_20151016_001822	Tên Bang Hội & Mô tả
+UI_20151016_001823	Tên Gia Đình
+UI_20151016_001824	Tiêu đề
+UI_20151016_001825	Lưu ý
+UI_20151022_001826	{@st41}Xếp hàng chờ Server
+UI_20151022_001827	{#000000}{s18}Server đã đầy. Vui lòng xếp hàng đợi.
+UI_20151022_001828	{#000000}{s18}Vị trí hiện tại : %s
+UI_20151022_001829	{@st66b}Hiển thị Hiệu ứng của người chơi khác
+UI_20151102_001830	iCoin
+UI_20151224_001831	{@st41b}Đổi{s18}(Cần 100 TP){/}
+UI_20151224_001832	Số lượng tiêu thụ
+UI_20151224_001833	Số lượng hiện có
+UI_20151224_001834	{@st43}Cửa hàng phép thuật{/}
+UI_20151224_001835	{@st59}Đóng{/}
+UI_20151224_001836	{@st43}Cửa hàng phép thuật
+UI_20151224_001837	Cửa hàng phép thuật
+UI_20151224_001838	{@st59}Đóng
+UI_20151224_001839	{@st59}Cửa hàng phép thuật{nl} - BẠn có thể nhận buff từ người chơi khác bằng cách trả silver.
+UI_20151224_001840	{@st41b}Xây
+UI_20151224_001841	{@st41b}Nguyên liệu và giá
+UI_20151224_001842	{@st66b}Nền móng
+UI_20151224_001843	{@st66b}Hồ sơ
+UI_20151224_001845	{@st41}Xác nhận
+UI_20151224_001846	{@st42}Dùng{/}
+UI_20151224_001847	{@st66b18}※ mua hàng thực hiện với TP là không hoàn lại.{/}
+UI_20151224_001848	{@st59}Bang Hội (/g chat){/}
+UI_20151224_001849	{@st59}Bang Hội   (/g chat){/}
+UI_20151224_001850	{@st42}Cỡ chữ
+UI_20151224_001851	{@st66b}Thông tin
+UI_20151224_001852	HP Tượng Nữ Thần
+UI_20151224_001853	Xung quanh
+UI_20151224_001854	Người chơi
+UI_20151224_001855	Đồng minh
+UI_20151224_001856	Kẻ thù
+UI_20151224_001857	{@st66b}Nấu ăn
+UI_20151224_001858	{@st66b}Đồ ăn
+UI_20151224_001859	{@st66b}Danh sách
+UI_20151224_001860	{@st66b}Quản lý
+UI_20151224_001861	{@st59}Đóng{/}
+UI_20151224_001862	{@st43}Bang Hội{/}
+UI_20151224_001863	{@st41b}Thông tin cơ bản
+UI_20151224_001864	{@st41b}Sở hữu
+UI_20151224_001865	Tìm người tham dự sự kiện Bang Hội.
+UI_20151224_001866	{@st41b}Nâng cấp & Hạng
+UI_20151224_001867	{@st41b}Thuộc tính Bang Hội
+UI_20151224_001868	{@st43}Nâng cấp Bang Hội{/}
+UI_20151224_001869	Ch / Location
+UI_20151224_001870	Triệu hồi
+UI_20151224_001871	Tới thành viên Bang Hội
+UI_20151224_001872	Đi
+UI_20151224_001873	{@st43}Lịch sử{/}
+UI_20151224_001874	{@st59}Đóng{/}
+UI_20151224_001875	{@st45tw2}Danh sách{/}
+UI_20151224_001876	{@st45tw2}Biến thiên giá trị{/}
+UI_20151224_001877	{@st45tw2}Thời gian{/}
+UI_20151224_001878	{@st45tw2}Phục hồi{/}
+UI_20151224_001879	{@st66b}Dungeons{/}
+UI_20151224_001880	{@st66b}Yêu cầu văn phòng Mission{/}
+UI_20151224_001881	{@st66b18}Giới hạn lượt vào{/}
+UI_20151224_001882	{@st45tw2}Tên{/}
+UI_20151224_001883	{@st45tw2}Lv. vào{/}
+UI_20151224_001884	Thời gian trôi qua : 
+UI_20151224_001885	{@st59}Phóng to{/}
+UI_20151224_001886	{@st59}Thu nhỏ{/}
+UI_20151224_001887	{@st59}Hiển thị điểm dịch chuyển cuối{/}
+UI_20151224_001888	{@st59}Hiển thị vị trí hiện tại{/}
+UI_20151224_001889	{@st59}Trang trí tóc 3{/}
+UI_20151224_001890	{@st59}Kiểu tóc{/}
+UI_20151224_001891	{@st41b}Hủy
+UI_20151224_001892	{@st41b}Xác nhận
+UI_20151224_001893	{@st66b}Roasting{/}
+UI_20151224_001894	{@st66b}Hồ sơ{/}
+UI_20151224_001895	Số còn lại
+UI_20151224_001896	{@st66b}Bảo trì{/}
+UI_20151224_001897	{@st66b}Sửa chữa{/}
+UI_20151224_001898	{@st41}Level kỹ năng
+UI_20151224_001899	{@st41}Nguyên liệu phong phú
+UI_20151224_001900	{@st66b}Loại bỏ trợ giúp (Cần %s TP){/}
+UI_20151224_001901	{@st66b}Toàn bản đồ{/}
+UI_20151224_001902	{@st59}Hiển thị toàn bản đồ{/}
+UI_20151224_001903	{ol}Tin nhắn
+UI_20151224_001904	{@st66b18}Nhận
+UI_20151224_001905	{@st66b18}Bán
+UI_20151224_001906	{@st66b18}Mua
+UI_20151224_001907	{@st45tw2}Lv.{/}
+UI_20151224_001908	{@st45tw2}Giá 1 đơn vị{/}
+UI_20151224_001909	{@st45tw2}Số lượng{/}
+UI_20151224_001910	{@st45tw2}Tổng giá{/}
+UI_20151224_001911	{@st42}Tùy chọn nâng cao{/}
+UI_20151224_001912	{@st65}Level{/}
+UI_20151224_001913	{@st65}Level cường hóa{/}
+UI_20151224_001914	{@st59}Tìm kiếm bằng tên và tùy chọn{/}
+UI_20151224_001915	{@st65}Giá từ thấp lên cao{/}
+UI_20151224_001916	{@st65}Giá từ cao xuống thấp{/}
+UI_20151224_001917	{@st45tw2}Số lượng{/}
+UI_20151224_001918	{@st45tw2}Thời gian cho đến khi nhận{/}
+UI_20151224_001919	{@st66b}Thời gian bán hàng & Thuế{/}
+UI_20151224_001920	{@st66}Sau 48 tiếng, Bạn có thể nhận {nl}silver từ Chợ ngoại trừ Token.
+UI_20151224_001921	{@st45tw2}Hạn chót{/}
+UI_20151224_001922	{@st45tw2}Thuế{/}
+UI_20151224_001923	{@st45tw2}Tổng giá{/}
+UI_20151224_001924	Giới hạn giá cao nhất{/}
+UI_20151224_001925	Giới hạn giá thấp nhất{/}
+UI_20151224_001926	{@st66}Giá Chợ thấp nhât{/}
+UI_20151224_001927	{@st66}Giá Chợ cao nhất{/}
+UI_20151224_001928	%s (Ch %s)
+UI_20151224_001929	Số mảnh vỡ
+UI_20151224_001930	{@st66b}Mở
+UI_20151224_001931	{@st66b}Offering Box
+UI_20151224_001932	{@st66b}Thành viên{/}
+UI_20151224_001933	{@st66b}Sự kiện tổ đội{/}
+UI_20151224_001934	{@st66b}Thiết lập{/}
+UI_20151224_001935	{@st42b}Lưu{/}
+UI_20151224_001936	{@st41}Tên tổ đội & Mô tả{/}
+UI_20151224_001937	Hiện thị tổ đội ở gần
+UI_20151224_001938	Tổ đội công khai
+UI_20151224_001939	Sự khác biệt Lv.
+UI_20151224_001940	Dùng 'Tổ đội khuyến nghị'
+UI_20151224_001941	{@st66b}Chèn lời mời vào tổ đội
+UI_20151224_001942	Cạnh tranh Mission
+UI_20151224_001943	Đơn vị
+UI_20151224_001944	{@st41b}Vào
+UI_20151224_001945	{@st66b}Danh sách tổ đội công khai{/}
+UI_20151224_001946	{@st66b}Danh sách người chơi khuyến nghị{/}
+UI_20151224_001947	Sự sống
+UI_20151224_001948	{@st43}Hộp tin nhắn
+UI_20151224_001949	{@st66b}Tất cả
+UI_20151224_001950	{@st66b}Chưa đọc
+UI_20151224_001951	{@st59b}Nhiệm vụ{nl}{@st59s} - Khi bạn trong nhiệm vụ mới, Nó sẽ được thêm vào cửa sổ nhiệm vụ.{nl} - Nhiệm vụ chính có màu vàng, Nhiệm vụ phụ có màu xanh.{nl} -Mũi tên ở dưới chân nhân vật sẽ hướng đến chỗ của nhiệm vụ{nl} - Biểu tượng 'Trở về;' sẽ xuất hiện khi bạn hoàn thành nhiệm vụ{nl}  (Dịch chuyển bạn về chỗ của NPC có nhiệm vụ bằng phím Backspace hoặc nhấn vào biểu tượng){nl} - Thêm hay bớt nhiệm vụ nhiệm vụ bằng cách tích hay không tích vào hộp phía trước nhiệm vụ{/}
+UI_20151224_001952	{@st66b}  Đang làm  {/}
+UI_20151224_001953	{@st66b}  Bỏ lại  {/}
+UI_20151224_001954	{@st66b}Hồi sinh bằng Soul Crystal{/}
+UI_20151224_001955	{@st59b}Cửa hàng{nl}{@st59s} - Dùng Shift + Chuột phải để nhập số lượng lớn vật phẩm cần mua hoặc bán{nl} - Right-click twice to sell Tất cả the items{/}
+UI_20151224_001956	Số lượng chế tạo
+UI_20151224_001957	{@st42}%s Lợi ích{/}
+UI_20151224_001958	Bạn có muốn dùng %s?{/}
+UI_20151224_001959	Vật phẩm này sẽ biến mất khỏi túi đồ{nl}Khôi phục tất cả điểm kỹ năng.
+UI_20151224_001960	{@st41}Dùng
+UI_20151224_001961	{@st59b}Class{nl}{@st59s}- Bạn có thể học kỹ năng mới bằng cách tăng Circle của Class. {nl} - Bạn có thể chọn từ 3 class mới để nâng cấp từ cấp 1 tới cấp 2. {nl} - bạn có thể nâng cấp cùng 1 class tới 3 lần. {nl} -  Bạn không thể thay đổi trở lại class của bạn trước đó khi bạn nâng cấp đến class khác. {nl} - Bạn cần xài hết điểm kĩ năng trước khi nâng cấp. {nl} - Bạn có thể chọn class như trước.{nl}{@st59b}Kỹ năng{nl}{@st59s} - Bạn có thể tăng kĩ năng của mổi class tới cấp 5..{nl} - Bạn có thể xem các thuộc tính đã học ở dưới các kĩ năng. {/}
+UI_20151224_001962	{@st66b}Thông tin{/}
+UI_20151224_001963	{@st66b}Thành tựu{/}
+UI_20151224_001964	{@st66b}Thiết lập nhân vật{/}
+UI_20151224_001965	{@st59}Bộ sưu tập (F11){/}
+UI_20151224_001966	{@st66b}Thiết lập phím
+UI_20151224_001967	{@st42}Thời hạn: %s{/}
+UI_20151224_001968	Áp dụng %s cho %s{nl} và xóa %s khỏi Túi đồ
+UI_20151224_001969	Chỉ Áp dụng tới %s trong suốt %s {nl} và xóa %s khỏi Túi đồ.{/}
+UI_20151224_001970	Thời hạn Token có thể xem tại Thiết lập nhân vật.
+UI_20151224_001971	{@st59}Đóng{/}
+UI_20151224_001972	{@st43}{s18}Xem trước & Mua
+UI_20151224_001973	Xem trước
+UI_20151224_001974	Đã trang bị Vật phẩm mua bằng TP
+UI_20151224_001975	{@st49}Mua các Vật phẩm đã trang bị{/}
+UI_20151224_001976	Giỏ mua hàng
+UI_20151224_001977	TP đang có
+UI_20151224_001978	TP cần trả
+UI_20151224_001979	TP còn lại
+UI_20151224_001980	{@st49}Xác nhận Mua{/}
+UI_20151224_001981	{@st66b}Mở rộng kho
+UI_20151224_001982	{@st59}Mở rộng kho{/}
+UI_20151224_001983	{@st42b}Khu vực{/}
+UI_20151224_001984	{@st59}Mở bản đồ{/}
+UI_20151224_001985	Số
+UI_20151224_001986	{@st43}Đổi Tên Gia Đình{/}
+UI_20151224_001987	{@st59}Đổi Tên Gia Đình{/}
+UI_20151224_001988	{@st59}Hủy{/}
+UI_20151224_001989	{@st66b18}Đổi Tên Gia Đình{/}
+UI_20151224_001990	{@st66b18}Đổi Căn cứ{/}
+UI_20151224_001991	{@st66}Đổi Tên Gia Đình tốn 150 TP{/}
+UI_20151224_001992	{@st59}Nhập một cái tên{/}
+UI_20151224_001993	{@st41b}TP Free{/}
+UI_20151224_001994	{@st59}Đóng{/}
+UI_20151224_001995	{@st43}Trang trí căn cứ{/}
+UI_20151224_001996	{@st41b}Thăm căn cứ{/}
+UI_20151224_001997	{@st59}Thăm căn cứ của người chơi khác.{/}
+UI_20151224_001998	{@st41b}Hộp tin nhắn{/}
+UI_20151224_001999	{@st59}Mở hộp tin nhắn{/}
+UI_20151224_002000	{@st42}Nhân vật{/}
+UI_20151224_002001	{@st42}TP Free{/}
+UI_20151224_002002	{@st42}TP sự kiện{/}
+UI_20151224_002003	{@st41b}Credits{/}
+UI_20151224_002004	{@st59}Credits{/}
+UI_20151224_002005	{@st42}Producer and Director{/}{nl}{@st41b}{s22}Seyong Kim{nl} {nl}{@st42}Art Director{nl}{@st41b}{s22}Jeongwon An (MAGGI){nl} {nl}{@st42}Art Designer{nl}{@st41b}{s22}Mina Kim{nl}Heajin Sung{nl}Minkyong Kang{nl}Junhyuck Park{nl}Jinyoung Bae{nl}Hyosun Shin{nl}Sehee Park{nl} {nl}{@st42}Senior Programmer{nl}{@st41b}{s22}Sanghyup Shin{nl} {nl}{@st42}Research Programmer{nl}{@st41b}{s22}Jaehoon Jung{nl} {nl}{@st42}Programmer{nl}{@st41b}{s22}Young Choi{nl}Seongbae Han{nl}Bora Kim{nl}YongGyun Lee{nl}Minkyu Kim{/}
+UI_20151224_002006	{@st42}Battle System Designer{nl}{@st41b}{s22}Girak Choi{nl}{nl}P.J. Kim{nl} {nl}{@st42}Level Designer{nl}{@st41b}{s22}Hongseok Ra{nl} {nl}{@st42}Screenplay Director{nl}{@st41b}{s22}Seungjo Lee{nl} {nl}{@st42}Lead Animator{nl}{@st41b}{s22}Sujin Lee{nl} {nl}{@st42}Animator{nl}{@st41b}{s22}Seunghyeon Myeong{nl}Minwoo Park{nl}Sookyung Kim{nl}Dongjin Kim{nl}Mijin Kim{nl} {nl}{@st42}Effects / SFX{nl}{@st41b}{s22}Hyejin Jung{nl} {nl}{@st42}Character Designer{nl}{@st41b}{s22}Jiae Park{nl}Junwon Hwang{nl}Subum Lee{nl}Dami Kim{/}
+UI_20151224_002007	{@st42}Background Designer{nl}{@st41b}{s22}Roch{nl}Rendering Studio Corp.{nl}Lisa Lee{nl}Dongho Kang{nl}JIN{nl}Yeonew{nl}Moje{nl}Hyunjung Lee{nl} {nl}{@st42}Content Design Manager{nl}{@st41b}{s22}Choungsu Lee{nl} {nl}{@st42}Content Designer{nl}{@st41b}{s22}Ujeong Son{nl}Wonjong Lee{nl}Orange Smith{nl}Jihyun Moon{nl}Jeongsu Kim{nl}Donghun Choe{nl}Seungyoung Jin{nl}Ginyi Lee{nl}Jongwook Moon{nl} {nl}{@st42}Scenario Writer{nl}{@st41b}{s22}Seion Kim{nl} {nl}{@st42}Conworlding Supervisor{nl}{@st41b}{s22}Martynas Siauciunas Kacinskas{nl}Kristina Kudriasova{/}
+UI_20151224_002008	{@st42}Sound Director{nl}{@st41b}{s22}sevin{nl} {nl}{@st42}General Sound Designer{nl}{@st41b}{s22}MIGHT{nl} {nl}{@st42}Sound Designer{nl}{@st41b}{s22}VIKCO{nl} {nl}{@st42}UX/UI Manager{nl}{@st41b}{s22}Gilyong Lee{nl} {nl}{@st42}UI Designer{nl}{@st41b}{s22}Jooyeon Seo{nl} {nl}{@st42}DBA{nl}{@st41b}{s22}Manju Han{nl} {nl}{@st42}Quality Assurance Manager{nl}{@st41b}{s22}Yonghyun Kim{nl} {nl}{@st42}Quality Assurance{nl}{@st41b}{s22}Yonghyun Ahn{nl}Eunyoung Park{nl}Mancheol No{nl}Eunyeong Lee{nl}Yebin Lheem{nl}Jaesoon Jang{nl}Jisu Park{/}
+UI_20151224_002009	{@st42}Global Publishing Director{nl}{@st41b}{s22}Moojin Shin{nl} {nl}{@st42}Localization{nl}{@st41b}{s22}Jay{nl}Shawn{nl}Jenny{nl}John{nl} {nl}{@st42}Technical Support{nl}{@st41b}{s22}Kangwoo Kim{nl}Wanjae Lee{nl}Sunyong Lee{nl}Sungkie Park{/}
+UI_20151224_002010	Chọn Thành phố khởi đầu
+UI_20151224_002011	{@st44}Klaipeda
+UI_20151224_002012	{@st59s}Một thị trấn khai thác mỏ đó đã tiến triển nhờ Crystai Mine.{nl}Thành phố này đã bị thiệt hại nhỏ trong suốt Medzio Diena.{/}
+UI_20151224_002013	{@st44}Orsha
+UI_20151224_002014	{@st59s}Chúng tôi đã cố gắng để bảo vệ chính mình bằng cách dựa vào các lâu đài khổng lồ trong suốt Medzio Diena.{nl}Nhưng thảm họa đáng sợ không bao giờ nuốt chửng lâu đài.{/}
+UI_20151224_002015	{@st59}Trở về Căn cứ của tôi.{/}
+UI_20151224_002016	{@st43}{s24}Tên Căn cứ{/}
+UI_20151224_002017	{@st59}Tên Căn cứ{/}
+UI_20151224_002018	{@st59}Thiết lập Căn cứ{/}
+UI_20151224_002019	{@st42}Số lần khôi phục
+UI_20151224_002020	{@st41}Tin nhắn
+UI_20151224_002021	{@st59}Hiển thị hội thoại nhiệm vụ{/}
+UI_20151224_002022	{@st59}Bỏ nhiệm vụ{/}
+UI_20151224_002023	{@st49}Xem trước{/}
+UI_20151224_002024	{@st49}Thêm{/}
+UI_20151224_002025	Thu được %s bởi %s
+UI_20151224_002026	Số lượng còn lại
+UI_20151224_002027	Số lượng còn lại : %s{/}
+UI_20151224_002028	{@st41}Mua{/}
+UI_20151224_002029	{@st45tw2}Điểm{/}
+UI_20151224_002030	Tăng dần theo tên
+UI_20151224_002031	Giảm dần theo tên
+UI_20151224_002032	Theo ngày
+UI_20151224_002033	{@st42}Lợi ích của Token{/}
+UI_20151224_002034	{@st66b}Thay đổi bảng chức danh
+UI_20151224_002035	{@st41b}Ăn
+UI_20151224_002036	{@st41b}Số lượng
+UI_20151224_002037	Cash Garden %s{/}
+UI_20151224_002038	Hiển thị online
+UI_20151224_002039	Hangout Entry
+UI_20151224_002040	Chỉ cho phép thành viên Bang hội
+UI_20151224_002041	Hồ sơ chiến tranh
+UI_20151224_002042	Danh sách Bang hội chiến
+UI_20151224_002043	Thời gian còn lại
+UI_20151224_002044	Tower đang có
+UI_20151224_002045	Nâng cấp Bang hội
+UI_20151224_002046	Xếp hạng cống hiện
+UI_20151224_002047	Thông tin & kỹ năng Bang Hội
+UI_20151224_002048	{@st42}%s Lợi ích{/}
+UI_20151224_002049	Lợi ích
+UI_20160224_002050	Kho Team
+UI_20160224_002051	{@st59}Đóng{/}
+UI_20160224_002052	Bạn chỉ có thể cật vật phảm có thể trao đổi, với ít nhất 1 Tiềm lực.{nl}Lấy ra từ kho team sẽ trừ số lần{nl}trao đổi đi 1 không kể số Vật phẩm lấy ra.
+UI_20160224_002053	Nhận vật phẩm
+UI_20160224_002054	Tổng : /s (chat){nl}Loa : /y (chat){nl}Tổ đội : /p (chat){nl}Riêng : /w Tên Gia Đình (chat){nl}Trả lời : /r (chat){nl} {nl}Có thể đổi bằng phím Tab
+UI_20160224_002055	{@59}Đóng{/}
+UI_20160224_002056	Thử thách
+UI_20160224_002057	Hãy chọn để tiến hành
+UI_20160224_002058	{@st63_yellow}Từ bỏ :{/}
+UI_20160224_002059	Nhận phần thưởng và rời đi.
+UI_20160224_002060	{@st63_yellow}Thử thách :{/}
+UI_20160224_002061	Di chuyển tới tầng tiếp
+UI_20160224_002062	{@st43}Người sưu tập di tích{/}
+UI_20160224_002063	{@st59}Đóng{/}
+UI_20160224_002064	{@st59b}Trao đổi vật phẩm{nl}{@st59s} - Có thể trao đổi Vật phẩm thu được từ Earth Tower{nl} - Việc trao đổi bắt đầu sau khi chèn các Vật phẩm nguyên liệu vào khe.{nl}{/}
+UI_20160224_002065	F
+UI_20160224_002066	{@st59}Đóng{/}
+UI_20160224_002067	{@st59}Dặt một trang trí{/}
+UI_20160224_002068	{@st66b}Mở thêm lần nữa tốn silver.{/}
+UI_20160224_002069	{@st66b}(Lên tới hai lần cho người có Token){/}
+UI_20160224_002070	{@st41b}Bạn đã vượt qua số lần vào.{/}
+UI_20160224_002071	{@st66b}Thông tin cơ bản
+UI_20160224_002072	{@st66b}Sở hữu
+UI_20160224_002073	Chủ Bang hội đang tìm người tham gia Sự kiện bang hội.
+UI_20160224_002074	{@st63_yellow}Thành viên :{/}
+UI_20160224_002075	{@st63}%s Người tham gia (Login %s){/}
+UI_20160224_002076	{@st63_yellow}Địa điểm :{/}
+UI_20160224_002077	Cobalt Forest
+UI_20160224_002078	{@st63_yellow}Đối tượng :{/}
+UI_20160224_002079	{@st43}Guild Lv. %s{/}
+UI_20160224_002080	{@st66b}Nâng cấp & Hạng
+UI_20160224_002081	{@st66b}Thuộc tính Bang hội
+UI_20160224_002082	Kho Bang hội
+UI_20160224_002083	{@st59}Đóng{/}
+UI_20160224_002084	* Chủ Bang hội có thể gửi Vật phẩm tới thành viên.{nl}* Vật phẩm có thể nhận qua Hộp thư.
+UI_20160224_002085	{@st41b}Cường hóa
+UI_20160224_002086	{@st41b}Enchant Scroll{/}
+UI_20160224_002087	{@st59}Đóng{/}
+UI_20160224_002088	{@st66b}Tốn 1 Enchant Scroll{/}
+UI_20160224_002089	{@st42b}Số Scroll hiện tại  : %s{/}
+UI_20160224_002090	{@st66b}Missions{/}
+UI_20160224_002091	{@st66b}Tu viện Saalus{/}
+UI_20160224_002092	{@st66b}Earth Tower{/}
+UI_20160224_002093	{@st59b}Instanced Dungeons{nl}{@st59s}Nội dung là nhóm của bạn cố gắng đạt được mục tiêu trong vùng độc lập giới hạn.{nl}Bạn có thể tạo tổ đội trước khi vào hoặc tự động tìm tổ đội đi Dungeons.{nl} - Dungeons : vào bằng cách nói chuyện với NPC trong mỗi khu vực Level.{nl} - Missions : vào bằng cách nói chuyện với Mercenary Post Receptionists ở Fedimian.{nl} - Tu viện Saalus Mission : vào bằng cách nói chuyện với Sister Lhasa ở Saalus Convent.{nl}{/}
+UI_20160224_002094	{@st59}Đóng{/}
+UI_20160224_002095	{@st59}Hiển thị/Không hiển thị{/}
+UI_20160224_002096	{@st45tw2}Thời gian xếp hàng{/}
+UI_20160224_002097	Đấu giá
+UI_20160224_002098	Thời gian đấu giá còn lại
+UI_20160224_002099	Vật phẩm xúc xắc
+UI_20160224_002100	{@st42}%s Lợi ích{/}
+UI_20160224_002101	Vật phẩm này sẽ biến mất khỏi túi đồ{nl}và Tất cả %s sẽ được khôi phục.{/}
+UI_20160224_002102	Thời gian hiệu lực có thể xem tại Thiết lập nhân vật.{/}
+UI_20160224_002103	Dữ liệu Nhận.
+UI_20160224_002104	{@st66b}Xếp hạng{/}
+UI_20160224_002105	{@st66b}Spectate
+UI_20160224_002106	{@st41b}Thoát Spectating
+UI_20160224_002107	Đội Xanh
+UI_20160224_002108	Đội Đỏ
+UI_20160224_002109	{@59}Hiển thị trong cửa sổ mới{/}
+UI_20160224_002110	Cập Nhật Nhật kÝ Phiêu Lưu
+UI_20160224_002111	{@st41}Đổi
+UI_20160224_002112	Hãy đến với merry kingdom
+UI_20160224_002113	Lịch đấu giải của đội
+UI_20160224_002114	Hồ sơ vừa xem
+UI_20160224_002115	{@st45tw2}Danh sách{/}
+UI_20160224_002116	{@st41c}%s{/}
+UI_20160224_002117	{@st41c}%sm{/}
+UI_20160224_002118	Temple Shooter đàn tập hợp Vubbes trở lại Crystal Mine làm mất hiệu lực của quy tắc Mirtis.{nl}Defeat Temple Shooter and help make Crystal Mine safe once more.
+UI_20160224_002119	{@st41c}Chương %s{/}
+UI_20160224_002120	Tên & Class
+UI_20160224_002121	{@st41b}làm mới
+UI_20160224_002122	Xem lịch sử
+UI_20160224_002123	Spectate
+UI_20160224_002124	{#000000}%s W{/}
+UI_20160224_002125	{@st66b}Cửa hàng điểm
+UI_20160224_002126	Điểm hằng ngày
+UI_20160224_002127	Điểm đã mua
+UI_20160224_002128	Hồ sơ
+UI_20160224_002129	Kho
+UI_20160224_002130	Xếp hạng %s
+UI_20160224_002131	Tiêu diệt : %s
+UI_20160224_002132	Sát thương : %s
+UI_20160224_002133	Tăng số buff tối đa
+UI_20160310_002134	{@st65}Sát thương: %s{/}
+UI_20160310_002135	{@st65}{s12}Thành tựu{/}
+UI_20160310_002136	{#16120e}Thành tựu{/}
+UI_20160310_002137	Số lần: %s
+UI_20160310_002138	Sát thương: %s
+UI_20160310_002139	{@sti9}Xếp hạng giết
+UI_20160310_002140	{@sti9}Xếp hạng sát thương
+UI_20160317_002141	Thêm 1 lượt vào missions và dungeons
+UI_20160317_002142	Thêm 2 lượt vào missions và dungeons
+UI_20160323_002143	{@st41} Thông tin Summonee của tôi
+UI_20160323_002144	{@st41} Xếp hạng Bang hội chiến{/}
+UI_20160323_002145	Xếp hạng Bang hội chiến
+UI_20160323_002146	{@st59}Đóng
+UI_20160323_002147	{@st66b} Bảng xếp hạng thời gian thực
+UI_20160323_002148	{@st66b} Bảng xếp hạng hàng tuần
+UI_20160323_002149	{@st66b} Bảng xếp hạng tổng thời gian{/}
+UI_20160323_002150	Hạng Bang Hội của tôi
+UI_20160323_002151	{@sti1}%s's Vị trí{/}
+UI_20160323_002152	Bảng xếp hạng tuần trước
+UI_20160323_002153	1st
+UI_20160323_002154	Danh sách thưởng Bang Hội
+UI_20160323_002155	{@st41}Sinh vật triệu hồi : {#ffcc33}%s{/}
+UI_20160323_002156	{@st41}Số mảnh yêu cầu : %s
+UI_20160323_002157	ATK : {@st41b}%s
+UI_20160323_002158	DEF : {@st41b}%s
+UI_20160323_002159	STR : {@st41b}%s
+UI_20160323_002160	CON : {@st41b}%s
+UI_20160323_002161	INT : {@st41b}%s
+UI_20160323_002162	DEX : {@st41b}%s
+UI_20160323_002163	SPR : {@st41b}%s
+UI_20160323_002164	{@st42}Màu tóc{/}
+UI_20160323_002165	{@st42}Tiêu đề đang có{/}
+UI_20160323_002166	Thông tin Team
+UI_20160323_002167	{@st66b}Đổi Căn cứ{/}
+UI_20160323_002168	{@st43}{s26}Team Level %s{/}
+UI_20160323_002169	{@st66b}Thông tin Team
+UI_20160323_002170	{#2c140c}Level trung bình : %s{/}
+UI_20160323_002171	{@st41b}Tham gia
+UI_20160323_002172	{@st42} Lời chào nhân vật{/}
+UI_20160323_002173	[Server] Tên Bang hội
+UI_20160323_002174	Hồ sơ / Điểm
+UI_20160323_002175	[Tạo: %s trước đó]
+UI_20160411_002176	{@st66b}Sử dụng Camera rung{/}
+UI_20160425_002177	{@st42}Nếu 2 bên cùng sử dụng Token,{nl}Đặc tính trao đổi của Vũ khí {nl}không bị thay đổi.{/}
+UI_20160425_002178	{@st66b} Áp dụng Hiệu ứng nền
+UI_20160425_002179	{@st66b} Áp dụng Dead Parts
+UI_20160425_002180	{@st66b} Áp dụng Character Silhouettes
+UI_20160426_002181	{/}Bạn có muốn thả {b}{s20}Thú cưng{/}{s43}{@st43}%s{/}{/}{b}{s20}?{/}
+UI_20160426_002182	{/}{b}{s20}Không thể bắt lại sau khi thả.{/}
+UI_20160426_002183	{/}{b}{s20}Thú cưng{/}{s43}{@st43}%s{/}
+UI_20160426_002184	{/}Thả trong {b}{s20}%s giây.{/}
+UI_20160426_002185	{s18}{ol}{#ffffcc}Không{/}
+UI_20160426_002186	{s18}{ol}{#ffffcc}Hủy{/}
+UI_20160509_002187	Chỉ Người sở hữu Token mới có thể truy cập Kho team. Có thể lưu trữ Vật phẩm trao đổi được ở đây.
+UI_20160520_002188	Mua TP
+UI_20160520_002189	{@st42}Mua TP
+UI_20160520_002190	{@st43}{s22}Túi đồ Vật phẩm Steam
+UI_20160520_002191	{@st45tw2}Mua TP{/}
+UI_20160520_002192	Nhận TP
+UI_20160520_002193	{@st49}Dùng{/}
+UI_20160520_002194	{@st42}Bang Hội chiến
+UI_20160520_002195	Tuyên bố trung lập
+UI_20160603_002196	{@st66b}Tốc độ điều khiển kỹ năng (%s){/}	{@st66b}스킬조작 속도 (%s){/}
